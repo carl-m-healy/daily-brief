@@ -1,0 +1,53 @@
+# Relay for The Daily Brief "Short video / Deep dive / Listen" buttons.
+# The page calls the workflow_dispatch API with a fine-grained token (Actions on this repo only);
+# this job validates the inputs and forwards them to the media routine's webhook from the server side.
+# Inputs are read from the event file and never echoed, so article titles do not appear in public logs.
+name: media-request
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: Issue date (YYYY-MM-DD)
+        required: true
+        type: string
+      article_id:
+        description: Article id (a-NNN-slug)
+        required: true
+        type: string
+      kind:
+        description: Media kind
+        required: true
+        type: choice
+        options: [audio, short, deep]
+      title:
+        description: Article headline
+        required: false
+        type: string
+        default: ""
+permissions: {}
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Validate and forward to the webhook
+        env:
+          WEBHOOK_URL: ${{ secrets.BRIEF_WEBHOOK_URL }}
+          WEBHOOK_KEY: ${{ secrets.BRIEF_WEBHOOK_KEY }}
+        run: |
+          set -euo pipefail
+          ev="$GITHUB_EVENT_PATH"
+          date="$(jq -r '.inputs.date // ""' "$ev")"
+          aid="$(jq -r '.inputs.article_id // ""' "$ev")"
+          kind="$(jq -r '.inputs.kind // ""' "$ev")"
+          [[ "$date" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] || { echo "::error::invalid date"; exit 1; }
+          [[ "$aid" =~ ^[a-z0-9-]{1,80}$ ]] || { echo "::error::invalid article_id"; exit 1; }
+          case "$kind" in audio|short|deep) ;; *) echo "::error::invalid kind"; exit 1;; esac
+          [[ -n "$WEBHOOK_URL" && -n "$WEBHOOK_KEY" ]] || { echo "::error::webhook secrets are not set"; exit 1; }
+          body="$(jq -c '{date: .inputs.date, article_id: .inputs.article_id, kind: .inputs.kind,
+                          title: ((.inputs.title // "") | tostring | .[0:300])}' "$ev")"
+          code="$(curl -sS -o /dev/null -w '%{http_code}' --max-time 60 -X POST \
+                   -H "Authorization: Bearer $WEBHOOK_KEY" -H 'Content-Type: application/json' \
+                   --data "$body" "$WEBHOOK_URL")" || code="000"
+          echo "forwarded kind=$kind: HTTP $code"
+          [[ "$code" =~ ^2[0-9][0-9]$ ]] || { echo "::error::webhook returned HTTP $code"; exit 1; }
