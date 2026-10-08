@@ -1,0 +1,28 @@
+{
+  "id": "/daily-brief/",
+  "name": "The Daily Brief",
+  "short_name": "Daily Brief",
+  "description": "Carl's daily long-read briefing, with Listen, Short video and Deep dive.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/daily-brief/?source=app",
+  "scope": "/daily-brief/",
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "any",
+  "background_color": "#fbfaf7",
+  "theme_color": "#fbfaf7",
+  "user_preferences": {"color_scheme": {"dark": {"background_color": "#121214", "theme_color": "#121214"}}},
+  "categories": ["news"],
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "/daily-brief/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/daily-brief/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/daily-brief/icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "/daily-brief/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "/daily-brief/icons/monochrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "monochrome"}
+  ],
+  "shortcuts": [
+    {"name": "Archive", "url": "/daily-brief/archive.html", "icons": [{"src": "/daily-brief/icons/icon-192.png", "sizes": "192x192"}]}
+  ]
+}
