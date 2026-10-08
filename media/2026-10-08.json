@@ -20,6 +20,11 @@
     "updated": "2026-10-08T06:49:17-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-020-chip-debt-audio.mp3?v=b3d6049e1f9a"
    },
+   "deep": {
+    "started": "2026-10-08T07:01:57-07:00",
+    "state": "in_progress",
+    "updated": "2026-10-08T07:01:57-07:00"
+   },
    "short": {
     "started": "2026-10-08T07:01:47-07:00",
     "state": "in_progress",
@@ -58,5 +63,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-08T07:01:47-07:00"
+ "updated": "2026-10-08T07:01:57-07:00"
 }
