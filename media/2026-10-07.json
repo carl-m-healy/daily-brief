@@ -7,7 +7,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-010-haiku55-audio.mp3",
     "duration_s": 787.9,
     "state": "ready",
-    "updated": "2026-10-07T23:00:06-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-audio.json?v=64a079a24e48",
+    "updated": "2026-10-08T07:43:06-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-audio.mp3?v=2630952cb245"
    },
    "deep": {
@@ -35,7 +36,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-020-gpt6-chat-audio.mp3",
     "duration_s": 508.5,
     "state": "ready",
-    "updated": "2026-10-07T23:00:07-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-020-gpt6-chat-audio.json?v=bb3f16908d22",
+    "updated": "2026-10-08T07:43:06-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-020-gpt6-chat-audio.mp3?v=f80d4d04badf"
    }
   },
@@ -45,7 +47,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-030-openai-math-audio.mp3",
     "duration_s": 834.8,
     "state": "ready",
-    "updated": "2026-10-07T23:00:07-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-030-openai-math-audio.json?v=fbe5be65f267",
+    "updated": "2026-10-08T07:43:06-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-030-openai-math-audio.mp3?v=9440b78f6e85"
    }
   },
@@ -55,7 +58,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-040-windows-local-ai-audio.mp3",
     "duration_s": 637.4,
     "state": "ready",
-    "updated": "2026-10-07T23:00:07-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-040-windows-local-ai-audio.json?v=283a9680af59",
+    "updated": "2026-10-08T07:43:06-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-040-windows-local-ai-audio.mp3?v=cc4e50165ce1"
    }
   },
@@ -348,5 +352,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-08T07:20:38-07:00"
+ "updated": "2026-10-08T07:43:06-07:00"
 }
