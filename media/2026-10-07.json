@@ -9,6 +9,15 @@
     "state": "ready",
     "updated": "2026-10-07T21:12:02-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-audio.mp3?v=be190ab5a49a"
+   },
+   "short": {
+    "bytes": 10949316,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-010-haiku55-short.mp4",
+    "duration_s": 88.9,
+    "poster": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-short-poster.jpg?v=20ada1e5b47d",
+    "state": "ready",
+    "updated": "2026-10-07T21:39:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-short.mp4?v=485c65196fe8"
    }
   },
   "a-020-gpt6-chat": {
@@ -513,5 +522,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-07T21:12:03-07:00"
+ "updated": "2026-10-07T21:39:17-07:00"
 }
