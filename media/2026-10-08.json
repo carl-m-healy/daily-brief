@@ -67,12 +67,15 @@
   },
   "a-110-scale-hss": {
    "audio": {
-    "started": "2026-10-08T07:11:07-07:00",
-    "state": "in_progress",
-    "updated": "2026-10-08T07:11:07-07:00"
+    "bytes": 3207994,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-110-scale-hss-audio.mp3",
+    "duration_s": 400.9,
+    "state": "ready",
+    "updated": "2026-10-08T07:15:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-110-scale-hss-audio.mp3?v=33139ff5572f"
    }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-08T07:11:07-07:00"
+ "updated": "2026-10-08T07:15:13-07:00"
 }
