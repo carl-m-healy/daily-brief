@@ -17,7 +17,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-020-chip-debt-audio.mp3",
     "duration_s": 892.6,
     "state": "ready",
-    "updated": "2026-10-08T06:49:17-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-020-chip-debt-audio.json?v=c1ae289eb59c",
+    "updated": "2026-10-08T07:57:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-020-chip-debt-audio.mp3?v=b3d6049e1f9a"
    },
    "deep": {
@@ -41,7 +42,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-030-ai-spend-audit-audio.mp3",
     "duration_s": 785.9,
     "state": "ready",
-    "updated": "2026-10-08T06:49:17-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-030-ai-spend-audit-audio.json?v=af5f1a947bff",
+    "updated": "2026-10-08T07:57:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-030-ai-spend-audit-audio.mp3?v=43bfe9b44e69"
    }
   },
@@ -51,7 +53,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-040-autor-patent-rct-audio.mp3",
     "duration_s": 624.8,
     "state": "ready",
-    "updated": "2026-10-08T06:49:17-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-040-autor-patent-rct-audio.json?v=5ea17f17e5d1",
+    "updated": "2026-10-08T07:57:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-040-autor-patent-rct-audio.mp3?v=621b1d520c10"
    }
   },
@@ -61,7 +64,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-050-analysis-verification-audio.mp3",
     "duration_s": 481.2,
     "state": "ready",
-    "updated": "2026-10-08T06:49:17-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-050-analysis-verification-audio.json?v=a77322b337e2",
+    "updated": "2026-10-08T07:57:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-050-analysis-verification-audio.mp3?v=194e5515dc5a"
    }
   },
@@ -71,11 +75,12 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-110-scale-hss-audio.mp3",
     "duration_s": 400.9,
     "state": "ready",
-    "updated": "2026-10-08T07:15:13-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-110-scale-hss-audio.json?v=edbbacc85832",
+    "updated": "2026-10-08T07:57:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-110-scale-hss-audio.mp3?v=33139ff5572f"
    }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-08T07:15:13-07:00"
+ "updated": "2026-10-08T07:57:16-07:00"
 }
