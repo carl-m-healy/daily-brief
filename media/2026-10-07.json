@@ -65,7 +65,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-050-analysis-containment-audio.mp3",
     "duration_s": 354.7,
     "state": "ready",
-    "updated": "2026-10-07T23:00:07-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-050-analysis-containment-audio.json?v=69fc5849351d",
+    "updated": "2026-10-08T07:20:38-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-050-analysis-containment-audio.mp3?v=fa24e63a10b1"
    }
   },
@@ -347,5 +348,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-07T23:00:08-07:00"
+ "updated": "2026-10-08T07:20:38-07:00"
 }
