@@ -1,0 +1,57 @@
+{
+ "date": "2026-10-08",
+ "items": {
+  "a-010-monitorability-letter": {
+   "audio": {
+    "bytes": 6126946,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-010-monitorability-letter-audio.mp3",
+    "duration_s": 765.8,
+    "state": "ready",
+    "updated": "2026-10-08T06:49:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-010-monitorability-letter-audio.mp3?v=80bbedf7cf2e"
+   }
+  },
+  "a-020-chip-debt": {
+   "audio": {
+    "bytes": 7140924,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-020-chip-debt-audio.mp3",
+    "duration_s": 892.6,
+    "state": "ready",
+    "updated": "2026-10-08T06:49:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-020-chip-debt-audio.mp3?v=b3d6049e1f9a"
+   }
+  },
+  "a-030-ai-spend-audit": {
+   "audio": {
+    "bytes": 6287861,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-030-ai-spend-audit-audio.mp3",
+    "duration_s": 785.9,
+    "state": "ready",
+    "updated": "2026-10-08T06:49:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-030-ai-spend-audit-audio.mp3?v=43bfe9b44e69"
+   }
+  },
+  "a-040-autor-patent-rct": {
+   "audio": {
+    "bytes": 4998756,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-040-autor-patent-rct-audio.mp3",
+    "duration_s": 624.8,
+    "state": "ready",
+    "updated": "2026-10-08T06:49:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-040-autor-patent-rct-audio.mp3?v=621b1d520c10"
+   }
+  },
+  "a-050-analysis-verification": {
+   "audio": {
+    "bytes": 3849597,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-050-analysis-verification-audio.mp3",
+    "duration_s": 481.2,
+    "state": "ready",
+    "updated": "2026-10-08T06:49:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-050-analysis-verification-audio.mp3?v=194e5515dc5a"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-10-08T06:49:17-07:00"
+}
