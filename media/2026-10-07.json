@@ -1,0 +1,517 @@
+{
+ "date": "2026-10-07",
+ "items": {
+  "a-010-haiku55": {
+   "audio": {
+    "bytes": 6256912,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-010-haiku55-audio.mp3",
+    "duration_s": 782.1,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-audio.mp3?v=be190ab5a49a"
+   }
+  },
+  "a-020-gpt6-chat": {
+   "audio": {
+    "bytes": 3977873,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-020-gpt6-chat-audio.mp3",
+    "duration_s": 497.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-020-gpt6-chat-audio.mp3?v=2229f9402445"
+   }
+  },
+  "a-030-openai-math": {
+   "audio": {
+    "bytes": 6572764,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-030-openai-math-audio.mp3",
+    "duration_s": 821.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-030-openai-math-audio.mp3?v=082679de2f20"
+   }
+  },
+  "a-040-windows-local-ai": {
+   "audio": {
+    "bytes": 5028679,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-040-windows-local-ai-audio.mp3",
+    "duration_s": 628.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-040-windows-local-ai-audio.mp3?v=a718b111deec"
+   }
+  },
+  "a-050-analysis-containment": {
+   "audio": {
+    "bytes": 2797440,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-050-analysis-containment-audio.mp3",
+    "duration_s": 349.6,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-050-analysis-containment-audio.mp3?v=b4dce7b1819a"
+   }
+  },
+  "a-110-decision-models": {
+   "audio": {
+    "bytes": 4611693,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-110-decision-models-audio.mp3",
+    "duration_s": 576.4,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-110-decision-models-audio.mp3?v=bff6d467dca1"
+   }
+  },
+  "a-120-mistral-large4": {
+   "audio": {
+    "bytes": 3244230,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-120-mistral-large4-audio.mp3",
+    "duration_s": 405.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-120-mistral-large4-audio.mp3?v=18fa9b95a5c9"
+   }
+  },
+  "a-130-vals-mimo": {
+   "audio": {
+    "bytes": 3018080,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-130-vals-mimo-audio.mp3",
+    "duration_s": 377.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-130-vals-mimo-audio.mp3?v=7e55f5f18179"
+   }
+  },
+  "a-140-ai2-bolmo": {
+   "audio": {
+    "bytes": 2056913,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-140-ai2-bolmo-audio.mp3",
+    "duration_s": 257.1,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-140-ai2-bolmo-audio.mp3?v=5bcf24754fd4"
+   }
+  },
+  "a-150-perplexity-embed": {
+   "audio": {
+    "bytes": 1950353,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-150-perplexity-embed-audio.mp3",
+    "duration_s": 243.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-150-perplexity-embed-audio.mp3?v=1a1239ccd73e"
+   }
+  },
+  "a-160-agent-research": {
+   "audio": {
+    "bytes": 3269626,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-160-agent-research-audio.mp3",
+    "duration_s": 408.6,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-160-agent-research-audio.mp3?v=3acdb346e749"
+   }
+  },
+  "a-170-tasteval": {
+   "audio": {
+    "bytes": 2638692,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-170-tasteval-audio.mp3",
+    "duration_s": 329.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-170-tasteval-audio.mp3?v=f7bc6bb70e7d"
+   }
+  },
+  "a-180-media-models": {
+   "audio": {
+    "bytes": 1741862,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-180-media-models-audio.mp3",
+    "duration_s": 217.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-180-media-models-audio.mp3?v=0edbdaeda98b"
+   }
+  },
+  "a-190-mercury": {
+   "audio": {
+    "bytes": 3092777,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-190-mercury-audio.mp3",
+    "duration_s": 386.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-190-mercury-audio.mp3?v=0cdc17f31c6b"
+   }
+  },
+  "a-195-google-efficiency-models": {
+   "audio": {
+    "bytes": 3232556,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-195-google-efficiency-models-audio.mp3",
+    "duration_s": 404.0,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-195-google-efficiency-models-audio.mp3?v=296d253bacbd"
+   }
+  },
+  "a-200-analysis-small-model-economics": {
+   "audio": {
+    "bytes": 2787291,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-200-analysis-small-model-economics-audio.mp3",
+    "duration_s": 348.4,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-200-analysis-small-model-economics-audio.mp3?v=39460afdf61d"
+   }
+  },
+  "a-210-nous": {
+   "audio": {
+    "bytes": 2108196,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-210-nous-audio.mp3",
+    "duration_s": 263.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-210-nous-audio.mp3?v=bffc42002e9b"
+   }
+  },
+  "a-220-mecka": {
+   "audio": {
+    "bytes": 2085925,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-220-mecka-audio.mp3",
+    "duration_s": 260.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-220-mecka-audio.mp3?v=beb1cdb2b5be"
+   }
+  },
+  "a-230-synthid": {
+   "audio": {
+    "bytes": 1662187,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-230-synthid-audio.mp3",
+    "duration_s": 207.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-230-synthid-audio.mp3?v=5de05d1487d2"
+   }
+  },
+  "a-240-hark": {
+   "audio": {
+    "bytes": 1811171,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-240-hark-audio.mp3",
+    "duration_s": 226.3,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-240-hark-audio.mp3?v=8c39e98c8c20"
+   }
+  },
+  "a-250-aria": {
+   "audio": {
+    "bytes": 1840174,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-250-aria-audio.mp3",
+    "duration_s": 230.0,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-250-aria-audio.mp3?v=b66d0f41cff9"
+   }
+  },
+  "a-255-anthropic-cyber": {
+   "audio": {
+    "bytes": 1828079,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-255-anthropic-cyber-audio.mp3",
+    "duration_s": 228.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-255-anthropic-cyber-audio.mp3?v=5aae3876ee07"
+   }
+  },
+  "a-260-a16z-consumer": {
+   "audio": {
+    "bytes": 2838574,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-260-a16z-consumer-audio.mp3",
+    "duration_s": 354.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-260-a16z-consumer-audio.mp3?v=01eaa74f74e3"
+   }
+  },
+  "a-270-sesame": {
+   "audio": {
+    "bytes": 1321174,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-270-sesame-audio.mp3",
+    "duration_s": 165.1,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-270-sesame-audio.mp3?v=59f79ffae441"
+   }
+  },
+  "a-280-deepseek": {
+   "audio": {
+    "bytes": 1873769,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-280-deepseek-audio.mp3",
+    "duration_s": 234.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-280-deepseek-audio.mp3?v=3e860e782678"
+   }
+  },
+  "a-310-chatgpt-extensions": {
+   "audio": {
+    "bytes": 2194406,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-310-chatgpt-extensions-audio.mp3",
+    "duration_s": 274.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-310-chatgpt-extensions-audio.mp3?v=00bc63f195fe"
+   }
+  },
+  "a-320-claude-sdk-toolsets": {
+   "audio": {
+    "bytes": 2304596,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-320-claude-sdk-toolsets-audio.mp3",
+    "duration_s": 288.0,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-320-claude-sdk-toolsets-audio.mp3?v=8cb478b2f831"
+   }
+  },
+  "a-330-agent-ops": {
+   "audio": {
+    "bytes": 2566530,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-330-agent-ops-audio.mp3",
+    "duration_s": 320.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-330-agent-ops-audio.mp3?v=9ba8ca21bb11"
+   }
+  },
+  "a-340-cuda": {
+   "audio": {
+    "bytes": 1688668,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-340-cuda-audio.mp3",
+    "duration_s": 211.0,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-340-cuda-audio.mp3?v=deaf89a09d69"
+   }
+  },
+  "a-350-playground": {
+   "audio": {
+    "bytes": 1273580,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-350-playground-audio.mp3",
+    "duration_s": 159.1,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-350-playground-audio.mp3?v=662eef607412"
+   }
+  },
+  "a-360-cohere-compass": {
+   "audio": {
+    "bytes": 1282616,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-360-cohere-compass-audio.mp3",
+    "duration_s": 160.3,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-360-cohere-compass-audio.mp3?v=5d3fe89b2282"
+   }
+  },
+  "a-370-agent-plugins": {
+   "audio": {
+    "bytes": 2007971,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-370-agent-plugins-audio.mp3",
+    "duration_s": 250.9,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-370-agent-plugins-audio.mp3?v=889bd0996929"
+   }
+  },
+  "a-380-llamacpp": {
+   "audio": {
+    "bytes": 1586549,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-380-llamacpp-audio.mp3",
+    "duration_s": 198.3,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-380-llamacpp-audio.mp3?v=80ad0dc21007"
+   }
+  },
+  "a-390-personal-agent-protocol": {
+   "audio": {
+    "bytes": 2292152,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-390-personal-agent-protocol-audio.mp3",
+    "duration_s": 286.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-390-personal-agent-protocol-audio.mp3?v=92182c3d5974"
+   }
+  },
+  "a-410-boston-dynamics": {
+   "audio": {
+    "bytes": 2043504,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-410-boston-dynamics-audio.mp3",
+    "duration_s": 255.4,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-410-boston-dynamics-audio.mp3?v=a0bb60891dae"
+   }
+  },
+  "a-420-hands-humanoids": {
+   "audio": {
+    "bytes": 2198036,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-420-hands-humanoids-audio.mp3",
+    "duration_s": 274.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-420-hands-humanoids-audio.mp3?v=dd21c83dc633"
+   }
+  },
+  "a-430-waymo": {
+   "audio": {
+    "bytes": 2477401,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-430-waymo-audio.mp3",
+    "duration_s": 309.6,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-430-waymo-audio.mp3?v=ab87ab999703"
+   }
+  },
+  "a-510-starship": {
+   "audio": {
+    "bytes": 2646000,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-510-starship-audio.mp3",
+    "duration_s": 330.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-510-starship-audio.mp3?v=6a62bbe50bf6"
+   }
+  },
+  "a-520-crew12": {
+   "audio": {
+    "bytes": 1393973,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-520-crew12-audio.mp3",
+    "duration_s": 174.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-520-crew12-audio.mp3?v=4c132b75a4a8"
+   }
+  },
+  "a-530-suncatcher": {
+   "audio": {
+    "bytes": 2118768,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-530-suncatcher-audio.mp3",
+    "duration_s": 264.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-530-suncatcher-audio.mp3?v=e641b3cd3292"
+   }
+  },
+  "a-610-tesla-powershare": {
+   "audio": {
+    "bytes": 1865683,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-610-tesla-powershare-audio.mp3",
+    "duration_s": 233.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-610-tesla-powershare-audio.mp3?v=b32556d4c4a3"
+   }
+  },
+  "a-620-nuclear": {
+   "audio": {
+    "bytes": 1688863,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-620-nuclear-audio.mp3",
+    "duration_s": 211.1,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-620-nuclear-audio.mp3?v=178ba9c7d467"
+   }
+  },
+  "a-630-srd": {
+   "audio": {
+    "bytes": 1380526,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-630-srd-audio.mp3",
+    "duration_s": 172.5,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-630-srd-audio.mp3?v=f06c2cf6b280"
+   }
+  },
+  "a-710-shipyards": {
+   "audio": {
+    "bytes": 2054848,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-710-shipyards-audio.mp3",
+    "duration_s": 256.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-710-shipyards-audio.mp3?v=957159e9f550"
+   }
+  },
+  "a-720-ibex-sda": {
+   "audio": {
+    "bytes": 1863422,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-720-ibex-sda-audio.mp3",
+    "duration_s": 232.9,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-720-ibex-sda-audio.mp3?v=832ac8c7ade1"
+   }
+  },
+  "a-810-nobel": {
+   "audio": {
+    "bytes": 1688303,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-810-nobel-audio.mp3",
+    "duration_s": 211.0,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-810-nobel-audio.mp3?v=74603e19ac69"
+   }
+  },
+  "a-811-nobel-chemistry": {
+   "audio": {
+    "bytes": 3342373,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-811-nobel-chemistry-audio.mp3",
+    "duration_s": 417.7,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-811-nobel-chemistry-audio.mp3?v=3377a2e4efff"
+   }
+  },
+  "a-812-nobel-medicine": {
+   "audio": {
+    "bytes": 2306367,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-812-nobel-medicine-audio.mp3",
+    "duration_s": 288.2,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-812-nobel-medicine-audio.mp3?v=09c01ef53c67"
+   }
+  },
+  "a-820-virtual-cell": {
+   "audio": {
+    "bytes": 1870500,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-820-virtual-cell-audio.mp3",
+    "duration_s": 233.8,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-820-virtual-cell-audio.mp3?v=5533662070d0"
+   }
+  },
+  "a-830-botanic": {
+   "audio": {
+    "bytes": 1948825,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-830-botanic-audio.mp3",
+    "duration_s": 243.6,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-830-botanic-audio.mp3?v=3ed3a75c83ad"
+   }
+  },
+  "a-840-cellfree": {
+   "audio": {
+    "bytes": 1919848,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-840-cellfree-audio.mp3",
+    "duration_s": 239.9,
+    "state": "ready",
+    "updated": "2026-10-07T21:12:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-840-cellfree-audio.mp3?v=4fc05a2ede8c"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-10-07T21:12:03-07:00"
+}
