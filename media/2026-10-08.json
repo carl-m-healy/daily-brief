@@ -7,7 +7,8 @@
     "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-08/a-010-monitorability-letter-audio.mp3",
     "duration_s": 765.8,
     "state": "ready",
-    "updated": "2026-10-08T06:49:17-07:00",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-010-monitorability-letter-audio.json?v=98aff3420729",
+    "updated": "2026-10-08T07:57:28-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-08/a-010-monitorability-letter-audio.mp3?v=80bbedf7cf2e"
    }
   },
@@ -82,5 +83,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-08T07:57:16-07:00"
+ "updated": "2026-10-08T07:57:28-07:00"
 }
