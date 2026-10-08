@@ -11,9 +11,13 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-audio.mp3?v=be190ab5a49a"
    },
    "deep": {
-    "started": "2026-10-07T21:50:53-07:00",
-    "state": "in_progress",
-    "updated": "2026-10-07T21:50:53-07:00"
+    "bytes": 90771974,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-07/a-010-haiku55-deep.mp4",
+    "duration_s": 1222.3,
+    "poster": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-deep-poster.jpg?v=e268e858b657",
+    "state": "ready",
+    "updated": "2026-10-07T22:01:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-07/a-010-haiku55-deep.mp4?v=be4caedf45e4"
    },
    "short": {
     "bytes": 10949316,
@@ -527,5 +531,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-07T21:50:53-07:00"
+ "updated": "2026-10-07T22:01:23-07:00"
 }
