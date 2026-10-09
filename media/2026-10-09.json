@@ -29,8 +29,63 @@
     "updated": "2026-10-09T00:41:00-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-005-grokbot-short.mp4?v=31efbe84f401"
    }
+  },
+  "a-010-spacex-spectrum": {
+   "audio": {
+    "bytes": 6933145,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-09/a-010-spacex-spectrum-audio.mp3",
+    "duration_s": 866.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-010-spacex-spectrum-audio.json?v=05aaa64fc30a",
+    "updated": "2026-10-09T01:15:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-010-spacex-spectrum-audio.mp3?v=5b4db7456c20"
+   }
+  },
+  "a-020-claude-dashboards-motion": {
+   "audio": {
+    "bytes": 5741990,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-09/a-020-claude-dashboards-motion-audio.mp3",
+    "duration_s": 717.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-020-claude-dashboards-motion-audio.json?v=51125b55d982",
+    "updated": "2026-10-09T01:15:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-020-claude-dashboards-motion-audio.mp3?v=e5bd6507d304"
+   }
+  },
+  "a-030-openai-ultrafast-sol": {
+   "audio": {
+    "bytes": 5634265,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-09/a-030-openai-ultrafast-sol-audio.mp3",
+    "duration_s": 704.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-030-openai-ultrafast-sol-audio.json?v=d789949f99a6",
+    "updated": "2026-10-09T01:15:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-030-openai-ultrafast-sol-audio.mp3?v=ad1cf4f97a71"
+   }
+  },
+  "a-040-openai-firings-letter": {
+   "audio": {
+    "bytes": 5117039,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-09/a-040-openai-firings-letter-audio.mp3",
+    "duration_s": 639.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-040-openai-firings-letter-audio.json?v=86c4ab1283b8",
+    "updated": "2026-10-09T01:15:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-040-openai-firings-letter-audio.mp3?v=7ad0b30e1f66"
+   }
+  },
+  "a-050-analysis-product-surface": {
+   "audio": {
+    "bytes": 4174206,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-09/a-050-analysis-product-surface-audio.mp3",
+    "duration_s": 521.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-050-analysis-product-surface-audio.json?v=497ede5dd579",
+    "updated": "2026-10-09T01:15:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-09/a-050-analysis-product-surface-audio.mp3?v=5fa474155bc9"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-09T01:14:42-07:00"
+ "updated": "2026-10-09T01:15:58-07:00"
 }
