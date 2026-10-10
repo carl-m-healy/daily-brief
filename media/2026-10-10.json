@@ -29,8 +29,63 @@
     "updated": "2026-10-10T00:38:53-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-005-grokbot-short.mp4?v=092c3411daff"
    }
+  },
+  "a-010-msft-decision1": {
+   "audio": {
+    "bytes": 5767701,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-10/a-010-msft-decision1-audio.mp3",
+    "duration_s": 720.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-010-msft-decision1-audio.json?v=31769d7435dc",
+    "updated": "2026-10-10T04:32:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-010-msft-decision1-audio.mp3?v=281c171b8ed9"
+   }
+  },
+  "a-020-anthropic-agent-evals": {
+   "audio": {
+    "bytes": 5499899,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-10/a-020-anthropic-agent-evals-audio.mp3",
+    "duration_s": 687.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-020-anthropic-agent-evals-audio.json?v=c76d2936a0ac",
+    "updated": "2026-10-10T04:32:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-020-anthropic-agent-evals-audio.mp3?v=b8f9be9aa53f"
+   }
+  },
+  "a-030-codex-composer-claude-agents": {
+   "audio": {
+    "bytes": 5372247,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-10/a-030-codex-composer-claude-agents-audio.mp3",
+    "duration_s": 671.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-030-codex-composer-claude-agents-audio.json?v=b5f18f51d41b",
+    "updated": "2026-10-10T04:32:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-030-codex-composer-claude-agents-audio.mp3?v=13016d2efd87"
+   }
+  },
+  "a-040-starlink-brazil-carriers": {
+   "audio": {
+    "bytes": 6044918,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-10/a-040-starlink-brazil-carriers-audio.mp3",
+    "duration_s": 755.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-040-starlink-brazil-carriers-audio.json?v=d492d4a0f118",
+    "updated": "2026-10-10T04:32:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-040-starlink-brazil-carriers-audio.mp3?v=17a69a1b4152"
+   }
+  },
+  "a-050-analysis-agent-stack": {
+   "audio": {
+    "bytes": 4701349,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-10/a-050-analysis-agent-stack-audio.mp3",
+    "duration_s": 587.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-050-analysis-agent-stack-audio.json?v=9f5ccf3c5316",
+    "updated": "2026-10-10T04:32:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-10/a-050-analysis-agent-stack-audio.mp3?v=936813a60992"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-10T04:23:31-07:00"
+ "updated": "2026-10-10T04:32:38-07:00"
 }
