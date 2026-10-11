@@ -11,8 +11,41 @@
     "updated": "2026-10-11T00:32:13-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-005-grokbot-audio.mp3?v=87b897d51d9d"
    }
+  },
+  "a-010-lambda-anthropic-rubin": {
+   "audio": {
+    "bytes": 6631034,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-11/a-010-lambda-anthropic-rubin-audio.mp3",
+    "duration_s": 828.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-010-lambda-anthropic-rubin-audio.json?v=18019db5dfbb",
+    "updated": "2026-10-11T00:33:55-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-010-lambda-anthropic-rubin-audio.mp3?v=4a78bddfd44a"
+   }
+  },
+  "a-020-sda-tranche1-launch": {
+   "audio": {
+    "bytes": 5713846,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-11/a-020-sda-tranche1-launch-audio.mp3",
+    "duration_s": 714.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-020-sda-tranche1-launch-audio.json?v=764c041d4b26",
+    "updated": "2026-10-11T00:33:55-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-020-sda-tranche1-launch-audio.mp3?v=607107c37051"
+   }
+  },
+  "a-030-openai-math-tao": {
+   "audio": {
+    "bytes": 6176097,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-11/a-030-openai-math-tao-audio.mp3",
+    "duration_s": 772.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-030-openai-math-tao-audio.json?v=e1c26a196e0f",
+    "updated": "2026-10-11T00:33:55-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-030-openai-math-tao-audio.mp3?v=0b24ddf2b2cc"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-11T00:32:13-07:00"
+ "updated": "2026-10-11T00:33:55-07:00"
 }
