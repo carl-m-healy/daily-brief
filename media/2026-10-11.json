@@ -10,6 +10,15 @@
     "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-005-grokbot-audio.json?v=51f58e76e113",
     "updated": "2026-10-11T00:32:13-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-005-grokbot-audio.mp3?v=87b897d51d9d"
+   },
+   "short": {
+    "bytes": 6843971,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-11/a-005-grokbot-short.mp4",
+    "duration_s": 69.1,
+    "poster": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-005-grokbot-short-poster.jpg?v=d30533b2ee93",
+    "state": "ready",
+    "updated": "2026-10-11T00:35:11-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-11/a-005-grokbot-short.mp4?v=e02538882f77"
    }
   },
   "a-010-lambda-anthropic-rubin": {
@@ -47,5 +56,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-11T00:33:55-07:00"
+ "updated": "2026-10-11T00:35:11-07:00"
 }
