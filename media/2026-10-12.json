@@ -29,8 +29,74 @@
     "updated": "2026-10-12T00:43:14-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-005-grokbot-short.mp4?v=86513da91c47"
    }
+  },
+  "a-010-gpt61-sol-500k-context": {
+   "audio": {
+    "bytes": 5362966,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-010-gpt61-sol-500k-context-audio.mp3",
+    "duration_s": 670.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-010-gpt61-sol-500k-context-audio.json?v=dc165e6e0104",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-010-gpt61-sol-500k-context-audio.mp3?v=848195d2d36f"
+   }
+  },
+  "a-020-openai-math-advisory-cyborgs": {
+   "audio": {
+    "bytes": 5569776,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-020-openai-math-advisory-cyborgs-audio.mp3",
+    "duration_s": 696.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-020-openai-math-advisory-cyborgs-audio.json?v=d284a887da59",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-020-openai-math-advisory-cyborgs-audio.mp3?v=35b2798d2131"
+   }
+  },
+  "a-030-karpathy-capability-gap": {
+   "audio": {
+    "bytes": 4945354,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-030-karpathy-capability-gap-audio.mp3",
+    "duration_s": 618.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-030-karpathy-capability-gap-audio.json?v=11b76d9f0ee9",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-030-karpathy-capability-gap-audio.mp3?v=17d068c9b73a"
+   }
+  },
+  "a-040-sakana-mass-self-supervision": {
+   "audio": {
+    "bytes": 5379484,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-040-sakana-mass-self-supervision-audio.mp3",
+    "duration_s": 672.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-040-sakana-mass-self-supervision-audio.json?v=09f2067d1988",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-040-sakana-mass-self-supervision-audio.mp3?v=0e8ddb04cbea"
+   }
+  },
+  "a-050-anduril-steelfin-interceptor": {
+   "audio": {
+    "bytes": 4860531,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-050-anduril-steelfin-interceptor-audio.mp3",
+    "duration_s": 607.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-050-anduril-steelfin-interceptor-audio.json?v=030a72fe3ff7",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-050-anduril-steelfin-interceptor-audio.mp3?v=5813887bdc4b"
+   }
+  },
+  "a-060-analysis-assistive-vs-autonomous": {
+   "audio": {
+    "bytes": 3554327,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-12/a-060-analysis-assistive-vs-autonomous-audio.mp3",
+    "duration_s": 444.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-060-analysis-assistive-vs-autonomous-audio.json?v=a2989e62cbd7",
+    "updated": "2026-10-12T01:01:22-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-12/a-060-analysis-assistive-vs-autonomous-audio.mp3?v=159c7ab653ca"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-12T00:54:12-07:00"
+ "updated": "2026-10-12T01:01:22-07:00"
 }
