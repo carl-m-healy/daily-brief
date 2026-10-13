@@ -29,8 +29,74 @@
     "updated": "2026-10-13T00:36:37-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-005-grokbot-short.mp4?v=dfb7b42dd97e"
    }
+  },
+  "a-010-meta-muse-wonder": {
+   "audio": {
+    "bytes": 7446733,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-010-meta-muse-wonder-audio.mp3",
+    "duration_s": 930.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-010-meta-muse-wonder-audio.json?v=4f77559426ec",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-010-meta-muse-wonder-audio.mp3?v=980e8cf870de"
+   }
+  },
+  "a-020-microsoft-maia-200-300": {
+   "audio": {
+    "bytes": 7090030,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-020-microsoft-maia-200-300-audio.mp3",
+    "duration_s": 886.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-020-microsoft-maia-200-300-audio.json?v=3e4298e9c1d4",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-020-microsoft-maia-200-300-audio.mp3?v=2b8695f8e493"
+   }
+  },
+  "a-030-anthropic-distillation-ai-worms": {
+   "audio": {
+    "bytes": 6808748,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-030-anthropic-distillation-ai-worms-audio.mp3",
+    "duration_s": 851.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-030-anthropic-distillation-ai-worms-audio.json?v=9cb71a60b284",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-030-anthropic-distillation-ai-worms-audio.mp3?v=3ca7855a793c"
+   }
+  },
+  "a-040-cursor-x-subscription-openai-day8": {
+   "audio": {
+    "bytes": 5889441,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-040-cursor-x-subscription-openai-day8-audio.mp3",
+    "duration_s": 736.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-040-cursor-x-subscription-openai-day8-audio.json?v=ea0b688b5918",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-040-cursor-x-subscription-openai-day8-audio.mp3?v=c88d6e7e1dea"
+   }
+  },
+  "a-050-anduril-steelfin-primary": {
+   "audio": {
+    "bytes": 6466310,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-050-anduril-steelfin-primary-audio.mp3",
+    "duration_s": 808.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-050-anduril-steelfin-primary-audio.json?v=c97f44c5dde1",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-050-anduril-steelfin-primary-audio.mp3?v=b8237d3fcc28"
+   }
+  },
+  "a-060-analysis-silicon-and-pacing": {
+   "audio": {
+    "bytes": 4447514,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-13/a-060-analysis-silicon-and-pacing-audio.mp3",
+    "duration_s": 555.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-060-analysis-silicon-and-pacing-audio.json?v=75e13c993b7c",
+    "updated": "2026-10-13T00:56:38-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-13/a-060-analysis-silicon-and-pacing-audio.mp3?v=59197b1bf7dc"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-13T00:52:57-07:00"
+ "updated": "2026-10-13T00:56:38-07:00"
 }
