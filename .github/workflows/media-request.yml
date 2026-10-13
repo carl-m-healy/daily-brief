@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: Issue date (YYYY-MM-DD)
+        description: Issue date (YYYY-MM-DD) or edition key exam-gp
         required: true
         type: string
       article_id:
@@ -40,7 +40,7 @@ jobs:
           date="$(jq -r '.inputs.date // ""' "$ev")"
           aid="$(jq -r '.inputs.article_id // ""' "$ev")"
           kind="$(jq -r '.inputs.kind // ""' "$ev")"
-          [[ "$date" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] || { echo "::error::invalid date"; exit 1; }
+          [[ "$date" =~ ^([0-9]{4}-[0-9]{2}-[0-9]{2}|exam-gp)$ ]] || { echo "::error::invalid date"; exit 1; }
           [[ "$aid" =~ ^[a-z0-9-]{1,80}$ ]] || { echo "::error::invalid article_id"; exit 1; }
           case "$kind" in audio|short|deep) ;; *) echo "::error::invalid kind"; exit 1;; esac
           [[ -n "$WEBHOOK_URL" && -n "$WEBHOOK_KEY" ]] || { echo "::error::webhook secrets are not set"; exit 1; }
