@@ -20,8 +20,74 @@
     "updated": "2026-10-14T00:39:48-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-005-grokbot-short.mp4?v=9694ffdd49fe"
    }
+  },
+  "a-010-gemini-4-argon": {
+   "audio": {
+    "bytes": 6133358,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-010-gemini-4-argon-audio.mp3",
+    "duration_s": 766.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-010-gemini-4-argon-audio.json?v=346c68dc63b3",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-010-gemini-4-argon-audio.mp3?v=4a82f5df8236"
+   }
+  },
+  "a-020-anthropic-scion": {
+   "audio": {
+    "bytes": 4491736,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-020-anthropic-scion-audio.mp3",
+    "duration_s": 561.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-020-anthropic-scion-audio.json?v=fcab4a133ba7",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-020-anthropic-scion-audio.mp3?v=0d754046ff69"
+   }
+  },
+  "a-030-spacex-crs35-ship40": {
+   "audio": {
+    "bytes": 3435098,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-030-spacex-crs35-ship40-audio.mp3",
+    "duration_s": 429.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-030-spacex-crs35-ship40-audio.json?v=ef0a7e2555d7",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-030-spacex-crs35-ship40-audio.mp3?v=fdb467613e1c"
+   }
+  },
+  "a-040-anthropic-ai-worms": {
+   "audio": {
+    "bytes": 3612020,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-040-anthropic-ai-worms-audio.mp3",
+    "duration_s": 451.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-040-anthropic-ai-worms-audio.json?v=e7cb9b0e3391",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-040-anthropic-ai-worms-audio.mp3?v=1dae7e659ada"
+   }
+  },
+  "a-050-liquid-lfm25-24b": {
+   "audio": {
+    "bytes": 3685154,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-050-liquid-lfm25-24b-audio.mp3",
+    "duration_s": 460.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-050-liquid-lfm25-24b-audio.json?v=db89f7d42b8a",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-050-liquid-lfm25-24b-audio.mp3?v=352e6542283e"
+   }
+  },
+  "a-060-analysis-google-returns": {
+   "audio": {
+    "bytes": 3199790,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-14/a-060-analysis-google-returns-audio.mp3",
+    "duration_s": 399.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-060-analysis-google-returns-audio.json?v=2f710b22d69e",
+    "updated": "2026-10-14T04:20:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-14/a-060-analysis-google-returns-audio.mp3?v=3e82a1868b5b"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-14T00:39:48-07:00"
+ "updated": "2026-10-14T04:20:23-07:00"
 }
