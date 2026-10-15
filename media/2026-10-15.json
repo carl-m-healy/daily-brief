@@ -29,8 +29,63 @@
     "updated": "2026-10-15T00:30:50-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-005-grokbot-short.mp4?v=d865696b3584"
    }
+  },
+  "a-010-modal-series-d": {
+   "audio": {
+    "bytes": 6513994,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-15/a-010-modal-series-d-audio.mp3",
+    "duration_s": 814.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-010-modal-series-d-audio.json?v=a3589e2b2b75",
+    "updated": "2026-10-15T00:39:53-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-010-modal-series-d-audio.mp3?v=442d302404ed"
+   }
+  },
+  "a-020-grok-voice-3": {
+   "audio": {
+    "bytes": 6781645,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-15/a-020-grok-voice-3-audio.mp3",
+    "duration_s": 847.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-020-grok-voice-3-audio.json?v=07b379bb68bc",
+    "updated": "2026-10-15T00:39:53-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-020-grok-voice-3-audio.mp3?v=817460d47128"
+   }
+  },
+  "a-030-openai-states-eu-agents": {
+   "audio": {
+    "bytes": 6189139,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-15/a-030-openai-states-eu-agents-audio.mp3",
+    "duration_s": 773.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-030-openai-states-eu-agents-audio.json?v=c4bd3e041535",
+    "updated": "2026-10-15T00:39:53-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-030-openai-states-eu-agents-audio.mp3?v=5e0d19a9c594"
+   }
+  },
+  "a-040-anthropic-revenue-singapore": {
+   "audio": {
+    "bytes": 5604289,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-15/a-040-anthropic-revenue-singapore-audio.mp3",
+    "duration_s": 700.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-040-anthropic-revenue-singapore-audio.json?v=b546fe49e8ca",
+    "updated": "2026-10-15T00:39:53-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-040-anthropic-revenue-singapore-audio.mp3?v=ec2339af481c"
+   }
+  },
+  "a-050-analysis-sandbox-containment": {
+   "audio": {
+    "bytes": 4965318,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-15/a-050-analysis-sandbox-containment-audio.mp3",
+    "duration_s": 620.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-050-analysis-sandbox-containment-audio.json?v=061dec017958",
+    "updated": "2026-10-15T00:39:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-15/a-050-analysis-sandbox-containment-audio.mp3?v=70db8b9fcd48"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-15T00:38:07-07:00"
+ "updated": "2026-10-15T00:39:54-07:00"
 }
