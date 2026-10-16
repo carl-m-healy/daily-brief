@@ -10,9 +10,18 @@
     "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-005-grokbot-audio.json?v=a2413632be9c",
     "updated": "2026-10-16T00:30:42-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-005-grokbot-audio.mp3?v=71b614b7146f"
+   },
+   "short": {
+    "bytes": 9374554,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-005-grokbot-short.mp4",
+    "duration_s": 67.4,
+    "poster": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-005-grokbot-short-poster.jpg?v=c510dd5429e2",
+    "state": "ready",
+    "updated": "2026-10-16T00:35:00-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-005-grokbot-short.mp4?v=cb795a9e0690"
    }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-16T00:30:42-07:00"
+ "updated": "2026-10-16T00:35:00-07:00"
 }
