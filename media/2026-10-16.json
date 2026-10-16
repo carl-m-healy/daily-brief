@@ -29,8 +29,63 @@
     "updated": "2026-10-16T00:35:00-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-005-grokbot-short.mp4?v=cb795a9e0690"
    }
+  },
+  "a-010-muse-spark-open": {
+   "audio": {
+    "bytes": 6626716,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-010-muse-spark-open-audio.mp3",
+    "duration_s": 828.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-010-muse-spark-open-audio.json?v=13424cb852eb",
+    "updated": "2026-10-16T00:47:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-010-muse-spark-open-audio.mp3?v=573a6b689421"
+   }
+  },
+  "a-020-gemini-4-argon": {
+   "audio": {
+    "bytes": 5895020,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-020-gemini-4-argon-audio.mp3",
+    "duration_s": 736.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-020-gemini-4-argon-audio.json?v=d365069d8a59",
+    "updated": "2026-10-16T00:47:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-020-gemini-4-argon-audio.mp3?v=f85dcacb57e6"
+   }
+  },
+  "a-030-nemotron-35": {
+   "audio": {
+    "bytes": 5258907,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-030-nemotron-35-audio.mp3",
+    "duration_s": 657.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-030-nemotron-35-audio.json?v=73ee036eeb06",
+    "updated": "2026-10-16T00:47:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-030-nemotron-35-audio.mp3?v=58c1bcaf92bb"
+   }
+  },
+  "a-040-anthropic-metr": {
+   "audio": {
+    "bytes": 4846323,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-040-anthropic-metr-audio.mp3",
+    "duration_s": 605.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-040-anthropic-metr-audio.json?v=1d951a006389",
+    "updated": "2026-10-16T00:47:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-040-anthropic-metr-audio.mp3?v=993b1357a26b"
+   }
+  },
+  "a-050-analysis-open-weights": {
+   "audio": {
+    "bytes": 4060804,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-16/a-050-analysis-open-weights-audio.mp3",
+    "duration_s": 507.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-050-analysis-open-weights-audio.json?v=57f2f68b0b73",
+    "updated": "2026-10-16T00:47:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-16/a-050-analysis-open-weights-audio.mp3?v=40db6a8402c6"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-16T00:46:11-07:00"
+ "updated": "2026-10-16T00:47:45-07:00"
 }
