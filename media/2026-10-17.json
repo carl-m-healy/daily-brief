@@ -29,8 +29,63 @@
     "updated": "2026-10-17T00:28:58-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-005-grokbot-short.mp4?v=36f10e9a1812"
    }
+  },
+  "a-010-reflection-beam": {
+   "audio": {
+    "bytes": 6394385,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-17/a-010-reflection-beam-audio.mp3",
+    "duration_s": 799.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-010-reflection-beam-audio.json?v=a7232a7f0042",
+    "updated": "2026-10-17T00:41:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-010-reflection-beam-audio.mp3?v=c04403ac666d"
+   }
+  },
+  "a-020-openai-parallel-agents": {
+   "audio": {
+    "bytes": 5537122,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-17/a-020-openai-parallel-agents-audio.mp3",
+    "duration_s": 692.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-020-openai-parallel-agents-audio.json?v=5a21da50e939",
+    "updated": "2026-10-17T00:41:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-020-openai-parallel-agents-audio.mp3?v=a14a71bdac2c"
+   }
+  },
+  "a-030-anthropic-bill-ipo": {
+   "audio": {
+    "bytes": 5348939,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-17/a-030-anthropic-bill-ipo-audio.mp3",
+    "duration_s": 668.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-030-anthropic-bill-ipo-audio.json?v=ce411be33eac",
+    "updated": "2026-10-17T00:41:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-030-anthropic-bill-ipo-audio.mp3?v=e0c6ec0ff1d2"
+   }
+  },
+  "a-040-gemini-minecraft": {
+   "audio": {
+    "bytes": 5180969,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-17/a-040-gemini-minecraft-audio.mp3",
+    "duration_s": 647.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-040-gemini-minecraft-audio.json?v=2a246b9b3618",
+    "updated": "2026-10-17T00:41:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-040-gemini-minecraft-audio.mp3?v=9a08938a404c"
+   }
+  },
+  "a-050-analysis-open-decisions": {
+   "audio": {
+    "bytes": 3645913,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-17/a-050-analysis-open-decisions-audio.mp3",
+    "duration_s": 455.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-050-analysis-open-decisions-audio.json?v=f964c7033744",
+    "updated": "2026-10-17T00:41:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-17/a-050-analysis-open-decisions-audio.mp3?v=a9693daa61fe"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-17T00:35:22-07:00"
+ "updated": "2026-10-17T00:41:13-07:00"
 }
