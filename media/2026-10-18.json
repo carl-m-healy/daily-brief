@@ -29,8 +29,63 @@
     "updated": "2026-10-18T00:38:29-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-005-grokbot-short.mp4?v=14e8a17c001a"
    }
+  },
+  "a-010-deepseek-v41-flash": {
+   "audio": {
+    "bytes": 7004203,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-18/a-010-deepseek-v41-flash-audio.mp3",
+    "duration_s": 875.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-010-deepseek-v41-flash-audio.json?v=71b859c76932",
+    "updated": "2026-10-18T00:45:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-010-deepseek-v41-flash-audio.mp3?v=1a6f60214726"
+   }
+  },
+  "a-020-intelligence-premium": {
+   "audio": {
+    "bytes": 5776164,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-18/a-020-intelligence-premium-audio.mp3",
+    "duration_s": 722.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-020-intelligence-premium-audio.json?v=f628cfdf9457",
+    "updated": "2026-10-18T00:45:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-020-intelligence-premium-audio.mp3?v=d0a19f913fe5"
+   }
+  },
+  "a-030-hark-pizza-handoff": {
+   "audio": {
+    "bytes": 5099550,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-18/a-030-hark-pizza-handoff-audio.mp3",
+    "duration_s": 637.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-030-hark-pizza-handoff-audio.json?v=357fb012e029",
+    "updated": "2026-10-18T00:45:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-030-hark-pizza-handoff-audio.mp3?v=a569e710bd6d"
+   }
+  },
+  "a-040-inference-speed-race": {
+   "audio": {
+    "bytes": 6609671,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-18/a-040-inference-speed-race-audio.mp3",
+    "duration_s": 826.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-040-inference-speed-race-audio.json?v=713be67614fc",
+    "updated": "2026-10-18T00:45:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-040-inference-speed-race-audio.mp3?v=542cf179c67b"
+   }
+  },
+  "a-050-analysis-cheap-enough": {
+   "audio": {
+    "bytes": 4039513,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-18/a-050-analysis-cheap-enough-audio.mp3",
+    "duration_s": 504.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-050-analysis-cheap-enough-audio.json?v=5ddf56fd34ea",
+    "updated": "2026-10-18T00:45:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-18/a-050-analysis-cheap-enough-audio.mp3?v=1ed2d449de56"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-18T00:40:20-07:00"
+ "updated": "2026-10-18T00:45:29-07:00"
 }
