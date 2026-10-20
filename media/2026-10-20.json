@@ -29,8 +29,74 @@
     "updated": "2026-10-20T00:34:02-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-005-grokbot-short.mp4?v=f2f4e94cd5c4"
    }
+  },
+  "a-010-minimax-m31-flash": {
+   "audio": {
+    "bytes": 6508474,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-010-minimax-m31-flash-audio.mp3",
+    "duration_s": 813.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-010-minimax-m31-flash-audio.json?v=b86f90b17c9d",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-010-minimax-m31-flash-audio.mp3?v=2d26edba2ee0"
+   }
+  },
+  "a-020-meta-muse-glimmer": {
+   "audio": {
+    "bytes": 5894128,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-020-meta-muse-glimmer-audio.mp3",
+    "duration_s": 736.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-020-meta-muse-glimmer-audio.json?v=64ae2ca12bd8",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-020-meta-muse-glimmer-audio.mp3?v=09e64e95ceb7"
+   }
+  },
+  "a-030-quantinuum-qec-record": {
+   "audio": {
+    "bytes": 6098745,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-030-quantinuum-qec-record-audio.mp3",
+    "duration_s": 762.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-030-quantinuum-qec-record-audio.json?v=8e540088d368",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-030-quantinuum-qec-record-audio.mp3?v=02ea11b562ff"
+   }
+  },
+  "a-040-washington-ai-security-turn": {
+   "audio": {
+    "bytes": 6966052,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-040-washington-ai-security-turn-audio.mp3",
+    "duration_s": 870.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-040-washington-ai-security-turn-audio.json?v=186ad7f322a5",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-040-washington-ai-security-turn-audio.mp3?v=4eeb7caf07c9"
+   }
+  },
+  "a-050-jaxa-mmx-launch": {
+   "audio": {
+    "bytes": 5239728,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-050-jaxa-mmx-launch-audio.mp3",
+    "duration_s": 654.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-050-jaxa-mmx-launch-audio.json?v=7a28ca6cd9dc",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-050-jaxa-mmx-launch-audio.mp3?v=0ae6f3b2f129"
+   }
+  },
+  "a-060-analysis": {
+   "audio": {
+    "bytes": 3863449,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-20/a-060-analysis-audio.mp3",
+    "duration_s": 482.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-060-analysis-audio.json?v=8af7f766df16",
+    "updated": "2026-10-20T00:42:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-20/a-060-analysis-audio.mp3?v=ac83728fb7e3"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-20T00:39:07-07:00"
+ "updated": "2026-10-20T00:42:02-07:00"
 }
