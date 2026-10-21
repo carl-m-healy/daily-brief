@@ -11,8 +11,63 @@
     "updated": "2026-10-21T00:30:44-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-005-grokbot-audio.mp3?v=7ebaab71eb6c"
    }
+  },
+  "a-010-spacex-q3-earnings": {
+   "audio": {
+    "bytes": 7820609,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-21/a-010-spacex-q3-earnings-audio.mp3",
+    "duration_s": 977.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-010-spacex-q3-earnings-audio.json?v=343272bb5b91",
+    "updated": "2026-10-21T04:31:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-010-spacex-q3-earnings-audio.mp3?v=424229ef24ef"
+   }
+  },
+  "a-020-deepseek-deepinfer": {
+   "audio": {
+    "bytes": 8097648,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-21/a-020-deepseek-deepinfer-audio.mp3",
+    "duration_s": 1012.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-020-deepseek-deepinfer-audio.json?v=ab49421192f4",
+    "updated": "2026-10-21T04:31:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-020-deepseek-deepinfer-audio.mp3?v=e0793f7660bd"
+   }
+  },
+  "a-030-anthropic-s1": {
+   "audio": {
+    "bytes": 5877936,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-21/a-030-anthropic-s1-audio.mp3",
+    "duration_s": 734.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-030-anthropic-s1-audio.json?v=0e1ce0180ad5",
+    "updated": "2026-10-21T04:31:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-030-anthropic-s1-audio.mp3?v=0b63fc97ab16"
+   }
+  },
+  "a-040-emudhra-weak-keys": {
+   "audio": {
+    "bytes": 6053782,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-21/a-040-emudhra-weak-keys-audio.mp3",
+    "duration_s": 756.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-040-emudhra-weak-keys-audio.json?v=1c927a40a572",
+    "updated": "2026-10-21T04:31:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-040-emudhra-weak-keys-audio.mp3?v=ef030627115f"
+   }
+  },
+  "a-050-ai-protein-design-day": {
+   "audio": {
+    "bytes": 5852923,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-21/a-050-ai-protein-design-day-audio.mp3",
+    "duration_s": 731.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-050-ai-protein-design-day-audio.json?v=5418ddce5990",
+    "updated": "2026-10-21T04:31:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-21/a-050-ai-protein-design-day-audio.mp3?v=9c7b8c93d22f"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-21T00:30:44-07:00"
+ "updated": "2026-10-21T04:31:07-07:00"
 }
