@@ -11,8 +11,63 @@
     "updated": "2026-10-22T00:27:30-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-005-grokbot-audio.mp3?v=702bf7ab7d7b"
    }
+  },
+  "a-010-php-patch-the-planet": {
+   "audio": {
+    "bytes": 7403394,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-22/a-010-php-patch-the-planet-audio.mp3",
+    "duration_s": 925.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-010-php-patch-the-planet-audio.json?v=550a6a4e49de",
+    "updated": "2026-10-22T00:38:19-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-010-php-patch-the-planet-audio.mp3?v=00dca4bae328"
+   }
+  },
+  "a-020-tesla-q3-2026": {
+   "audio": {
+    "bytes": 7767228,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-22/a-020-tesla-q3-2026-audio.mp3",
+    "duration_s": 970.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-020-tesla-q3-2026-audio.json?v=2b8b155ec545",
+    "updated": "2026-10-22T00:38:19-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-020-tesla-q3-2026-audio.mp3?v=b10a8ee511c4"
+   }
+  },
+  "a-030-nvidia-gtc-berlin": {
+   "audio": {
+    "bytes": 7044731,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-22/a-030-nvidia-gtc-berlin-audio.mp3",
+    "duration_s": 880.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-030-nvidia-gtc-berlin-audio.json?v=47a0a58a4649",
+    "updated": "2026-10-22T00:38:19-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-030-nvidia-gtc-berlin-audio.mp3?v=c730e3dd0996"
+   }
+  },
+  "a-040-claude-duet-anthropic": {
+   "audio": {
+    "bytes": 6862156,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-22/a-040-claude-duet-anthropic-audio.mp3",
+    "duration_s": 857.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-040-claude-duet-anthropic-audio.json?v=04d764212e2b",
+    "updated": "2026-10-22T00:38:19-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-040-claude-duet-anthropic-audio.mp3?v=ad80e5139887"
+   }
+  },
+  "a-050-recursive-flint": {
+   "audio": {
+    "bytes": 6461997,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-22/a-050-recursive-flint-audio.mp3",
+    "duration_s": 807.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-050-recursive-flint-audio.json?v=8978f4822d86",
+    "updated": "2026-10-22T00:38:20-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-22/a-050-recursive-flint-audio.mp3?v=ac4be27db914"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-22T00:27:30-07:00"
+ "updated": "2026-10-22T00:38:20-07:00"
 }
