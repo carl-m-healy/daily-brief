@@ -11,8 +11,63 @@
     "updated": "2026-10-23T00:35:47-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-005-grokbot-audio.mp3?v=08071fda7cc4"
    }
+  },
+  "a-010-claude-formal-verification": {
+   "audio": {
+    "bytes": 7035525,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-23/a-010-claude-formal-verification-audio.mp3",
+    "duration_s": 879.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-010-claude-formal-verification-audio.json?v=895d9ed953e0",
+    "updated": "2026-10-23T00:46:18-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-010-claude-formal-verification-audio.mp3?v=0706c8c3dd95"
+   }
+  },
+  "a-020-microsoft-mai-dxo-science": {
+   "audio": {
+    "bytes": 7116934,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-23/a-020-microsoft-mai-dxo-science-audio.mp3",
+    "duration_s": 889.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-020-microsoft-mai-dxo-science-audio.json?v=dcaddc70106f",
+    "updated": "2026-10-23T00:46:18-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-020-microsoft-mai-dxo-science-audio.mp3?v=8ff51d3e9b69"
+   }
+  },
+  "a-030-openai-embedded-safety-eval": {
+   "audio": {
+    "bytes": 6832591,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-23/a-030-openai-embedded-safety-eval-audio.mp3",
+    "duration_s": 854.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-030-openai-embedded-safety-eval-audio.json?v=1465231e415f",
+    "updated": "2026-10-23T00:46:18-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-030-openai-embedded-safety-eval-audio.mp3?v=609df7dd7ee9"
+   }
+  },
+  "a-040-nasa-asap-starship-22-refuelings": {
+   "audio": {
+    "bytes": 6743899,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-23/a-040-nasa-asap-starship-22-refuelings-audio.mp3",
+    "duration_s": 842.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-040-nasa-asap-starship-22-refuelings-audio.json?v=501d72043f20",
+    "updated": "2026-10-23T00:46:18-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-040-nasa-asap-starship-22-refuelings-audio.mp3?v=fd3e9d477375"
+   }
+  },
+  "a-050-mrna-melanoma-vaccine-prime-editing": {
+   "audio": {
+    "bytes": 7164217,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-23/a-050-mrna-melanoma-vaccine-prime-editing-audio.mp3",
+    "duration_s": 895.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-050-mrna-melanoma-vaccine-prime-editing-audio.json?v=c23771523008",
+    "updated": "2026-10-23T00:46:18-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-23/a-050-mrna-melanoma-vaccine-prime-editing-audio.mp3?v=e919adbfb06b"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-23T00:35:47-07:00"
+ "updated": "2026-10-23T00:46:18-07:00"
 }
