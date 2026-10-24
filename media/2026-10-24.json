@@ -11,8 +11,52 @@
     "updated": "2026-10-24T00:33:55-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-005-grokbot-audio.mp3?v=884eff17ef21"
    }
+  },
+  "a-010-openai-training-containment": {
+   "audio": {
+    "bytes": 7727184,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-24/a-010-openai-training-containment-audio.mp3",
+    "duration_s": 965.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-010-openai-training-containment-audio.json?v=fba5a3bfb0d7",
+    "updated": "2026-10-24T00:40:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-010-openai-training-containment-audio.mp3?v=dc4b77e4995d"
+   }
+  },
+  "a-020-mythos5-aisi-incident": {
+   "audio": {
+    "bytes": 6864480,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-24/a-020-mythos5-aisi-incident-audio.mp3",
+    "duration_s": 858.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-020-mythos5-aisi-incident-audio.json?v=cb9a2ded7f42",
+    "updated": "2026-10-24T00:40:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-020-mythos5-aisi-incident-audio.mp3?v=527b885cf8a4"
+   }
+  },
+  "a-030-kimi-k31-pro": {
+   "audio": {
+    "bytes": 7394019,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-24/a-030-kimi-k31-pro-audio.mp3",
+    "duration_s": 924.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-030-kimi-k31-pro-audio.json?v=efb92b4f1d2b",
+    "updated": "2026-10-24T00:40:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-030-kimi-k31-pro-audio.mp3?v=cc652fbdbafc"
+   }
+  },
+  "a-040-artemis-acceleration": {
+   "audio": {
+    "bytes": 6606650,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-24/a-040-artemis-acceleration-audio.mp3",
+    "duration_s": 825.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-040-artemis-acceleration-audio.json?v=87eda04703ba",
+    "updated": "2026-10-24T00:40:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-040-artemis-acceleration-audio.mp3?v=6dbed6241662"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-24T00:33:55-07:00"
+ "updated": "2026-10-24T00:40:29-07:00"
 }
