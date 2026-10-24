@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-005-grokbot-audio.mp3?v=884eff17ef21"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 6913586,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-24/a-006-cyber-audio.mp3",
+    "duration_s": 864.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-006-cyber-audio.json?v=703b444b7e3a",
+    "updated": "2026-10-24T01:58:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-24/a-006-cyber-audio.mp3?v=1adb59868395"
+   }
+  },
   "a-010-openai-training-containment": {
    "audio": {
     "bytes": 7727184,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-24T00:40:29-07:00"
+ "updated": "2026-10-24T01:58:58-07:00"
 }
