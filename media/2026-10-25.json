@@ -11,8 +11,52 @@
     "updated": "2026-10-25T00:31:20-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-005-grokbot-audio.mp3?v=842b59b89dec"
    }
+  },
+  "a-010-deepseek-open-inference-race": {
+   "audio": {
+    "bytes": 8317908,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-25/a-010-deepseek-open-inference-race-audio.mp3",
+    "duration_s": 1039.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-010-deepseek-open-inference-race-audio.json?v=a4d7c923fc32",
+    "updated": "2026-10-25T00:34:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-010-deepseek-open-inference-race-audio.mp3?v=13cf601276ad"
+   }
+  },
+  "a-020-emudhra-ca-distrust": {
+   "audio": {
+    "bytes": 7263605,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-25/a-020-emudhra-ca-distrust-audio.mp3",
+    "duration_s": 907.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-020-emudhra-ca-distrust-audio.json?v=29fd5104a1cf",
+    "updated": "2026-10-25T00:34:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-020-emudhra-ca-distrust-audio.mp3?v=9eeb1ea5bf1b"
+   }
+  },
+  "a-030-ai-agents-bank-attacks": {
+   "audio": {
+    "bytes": 7069516,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-25/a-030-ai-agents-bank-attacks-audio.mp3",
+    "duration_s": 883.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-030-ai-agents-bank-attacks-audio.json?v=093412d79e20",
+    "updated": "2026-10-25T00:34:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-030-ai-agents-bank-attacks-audio.mp3?v=b5e1ce5e1720"
+   }
+  },
+  "a-040-heavy-lift-shuffle": {
+   "audio": {
+    "bytes": 6651548,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-25/a-040-heavy-lift-shuffle-audio.mp3",
+    "duration_s": 831.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-040-heavy-lift-shuffle-audio.json?v=6ae068aa1eb6",
+    "updated": "2026-10-25T00:34:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-040-heavy-lift-shuffle-audio.mp3?v=b6bafcf8a66e"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-25T00:31:20-07:00"
+ "updated": "2026-10-25T00:34:07-07:00"
 }
