@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-005-grokbot-audio.mp3?v=842b59b89dec"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 6212027,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-25/a-006-cyber-audio.mp3",
+    "duration_s": 776.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-006-cyber-audio.json?v=4820d39bf844",
+    "updated": "2026-10-25T01:59:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-25/a-006-cyber-audio.mp3?v=45a00673e9e8"
+   }
+  },
   "a-010-deepseek-open-inference-race": {
    "audio": {
     "bytes": 8317908,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-25T00:34:07-07:00"
+ "updated": "2026-10-25T01:59:23-07:00"
 }
