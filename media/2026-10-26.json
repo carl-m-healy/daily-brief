@@ -11,8 +11,52 @@
     "updated": "2026-10-26T00:29:27-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-005-grokbot-audio.mp3?v=6834610da3f4"
    }
+  },
+  "a-010-opus55-demand": {
+   "audio": {
+    "bytes": 7171094,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-26/a-010-opus55-demand-audio.mp3",
+    "duration_s": 896.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-010-opus55-demand-audio.json?v=c8621b20648c",
+    "updated": "2026-10-26T01:50:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-010-opus55-demand-audio.mp3?v=7240f15e1218"
+   }
+  },
+  "a-020-iea-critical-minerals-2026": {
+   "audio": {
+    "bytes": 7105414,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-26/a-020-iea-critical-minerals-2026-audio.mp3",
+    "duration_s": 888.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-020-iea-critical-minerals-2026-audio.json?v=a6ba3231d425",
+    "updated": "2026-10-26T01:50:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-020-iea-critical-minerals-2026-audio.mp3?v=9bb32e847db1"
+   }
+  },
+  "a-030-score-centering-rl": {
+   "audio": {
+    "bytes": 7337162,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-26/a-030-score-centering-rl-audio.mp3",
+    "duration_s": 917.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-030-score-centering-rl-audio.json?v=90a82e77e225",
+    "updated": "2026-10-26T01:50:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-030-score-centering-rl-audio.mp3?v=414bccf4f957"
+   }
+  },
+  "a-040-adolescent-brain-maturation": {
+   "audio": {
+    "bytes": 6944094,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-26/a-040-adolescent-brain-maturation-audio.mp3",
+    "duration_s": 867.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-040-adolescent-brain-maturation-audio.json?v=03893daf3caf",
+    "updated": "2026-10-26T01:50:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-26/a-040-adolescent-brain-maturation-audio.mp3?v=98c9abf498a1"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-26T00:29:27-07:00"
+ "updated": "2026-10-26T01:50:41-07:00"
 }
