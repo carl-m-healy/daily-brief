@@ -11,8 +11,52 @@
     "updated": "2026-10-27T00:31:22-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-005-grokbot-audio.mp3?v=fc0786dcd555"
    }
+  },
+  "a-010-openai-three-discoveries": {
+   "audio": {
+    "bytes": 8072781,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-27/a-010-openai-three-discoveries-audio.mp3",
+    "duration_s": 1009.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-010-openai-three-discoveries-audio.json?v=dfadc7be8002",
+    "updated": "2026-10-27T01:53:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-010-openai-three-discoveries-audio.mp3?v=934daefa18d6"
+   }
+  },
+  "a-020-gpt61-terra": {
+   "audio": {
+    "bytes": 6922656,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-27/a-020-gpt61-terra-audio.mp3",
+    "duration_s": 865.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-020-gpt61-terra-audio.json?v=81e4d9188c53",
+    "updated": "2026-10-27T01:53:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-020-gpt61-terra-audio.mp3?v=8b6dc194ca51"
+   }
+  },
+  "a-030-anthropic-s1-public": {
+   "audio": {
+    "bytes": 7196422,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-27/a-030-anthropic-s1-public-audio.mp3",
+    "duration_s": 899.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-030-anthropic-s1-public-audio.json?v=c27917445045",
+    "updated": "2026-10-27T01:53:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-030-anthropic-s1-public-audio.mp3?v=1b1aa2df6098"
+   }
+  },
+  "a-040-cohere-qwen-sandbox": {
+   "audio": {
+    "bytes": 7298993,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-27/a-040-cohere-qwen-sandbox-audio.mp3",
+    "duration_s": 912.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-040-cohere-qwen-sandbox-audio.json?v=3bb4346f5bcf",
+    "updated": "2026-10-27T01:53:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-27/a-040-cohere-qwen-sandbox-audio.mp3?v=b84c13b18e73"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-27T00:31:22-07:00"
+ "updated": "2026-10-27T01:53:54-07:00"
 }
