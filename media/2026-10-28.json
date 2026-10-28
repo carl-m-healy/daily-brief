@@ -11,8 +11,52 @@
     "updated": "2026-10-28T00:32:12-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-005-grokbot-audio.mp3?v=227669d9cc9b"
    }
+  },
+  "a-010-genie-4": {
+   "audio": {
+    "bytes": 6136791,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-28/a-010-genie-4-audio.mp3",
+    "duration_s": 767.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-010-genie-4-audio.json?v=d96ce81d9885",
+    "updated": "2026-10-28T01:52:21-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-010-genie-4-audio.mp3?v=2b37e3992f4f"
+   }
+  },
+  "a-020-anduril-bluechip": {
+   "audio": {
+    "bytes": 5603753,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-28/a-020-anduril-bluechip-audio.mp3",
+    "duration_s": 700.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-020-anduril-bluechip-audio.json?v=869c3ddd998b",
+    "updated": "2026-10-28T01:52:21-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-020-anduril-bluechip-audio.mp3?v=40e9950b4372"
+   }
+  },
+  "a-030-anthropic-drug-discovery": {
+   "audio": {
+    "bytes": 6606022,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-28/a-030-anthropic-drug-discovery-audio.mp3",
+    "duration_s": 825.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-030-anthropic-drug-discovery-audio.json?v=b5739c5787dc",
+    "updated": "2026-10-28T01:52:21-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-030-anthropic-drug-discovery-audio.mp3?v=74dba97b9a93"
+   }
+  },
+  "a-040-china-spaceplane-dia": {
+   "audio": {
+    "bytes": 6040377,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-28/a-040-china-spaceplane-dia-audio.mp3",
+    "duration_s": 755.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-040-china-spaceplane-dia-audio.json?v=63690042a3fd",
+    "updated": "2026-10-28T01:52:21-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-28/a-040-china-spaceplane-dia-audio.mp3?v=8b8361d5c8ee"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-28T00:32:12-07:00"
+ "updated": "2026-10-28T01:52:21-07:00"
 }
