@@ -1,12 +1,13 @@
-# Relay for the Bookshelf "Listen to this chapter" button. INERT BY DEFAULT.
+# Relay for the Bookshelf "Listen to this chapter" button. LIVE.
 #
 # A separate file on purpose: media-request.yml forwards to Walter's nightly media routine, and a
 # book payload ({slug, chapter}) would wake that routine with a schema it does not understand. This
-# workflow therefore forwards ONLY to its own secrets, BOOKS_WEBHOOK_URL / BOOKS_WEBHOOK_KEY, and
-# fails closed ("webhook secrets are not set") until Carl creates a second routine and sets them.
+# workflow forwards ONLY to its own secrets, BOOKS_WEBHOOK_URL / BOOKS_WEBHOOK_KEY, which reach the
+# books-only webhook routine ("Daily Brief — Bookshelf chapter audio"), never Walter's.
 #
-# Nothing dispatches to this workflow yet: the reader page records a chapter request on the device
-# instead (see BOOKS.md §audio). To turn it on, see BOOKS.md "Wiring the request button".
+# The reader page dispatches this workflow when Carl taps Listen on a chapter that has no audio
+# (books/typeset.py, with the same fine-grained token the article buttons use). It still fails
+# closed if either secret is ever removed. See BOOKS.md §5.3.
 name: book-audio-request
 on:
   workflow_dispatch:
