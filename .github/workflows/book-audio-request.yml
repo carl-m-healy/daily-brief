@@ -1,0 +1,51 @@
+# Relay for the Bookshelf "Listen to this chapter" button. INERT BY DEFAULT.
+#
+# A separate file on purpose: media-request.yml forwards to Walter's nightly media routine, and a
+# book payload ({slug, chapter}) would wake that routine with a schema it does not understand. This
+# workflow therefore forwards ONLY to its own secrets, BOOKS_WEBHOOK_URL / BOOKS_WEBHOOK_KEY, and
+# fails closed ("webhook secrets are not set") until Carl creates a second routine and sets them.
+#
+# Nothing dispatches to this workflow yet: the reader page records a chapter request on the device
+# instead (see BOOKS.md §audio). To turn it on, see BOOKS.md "Wiring the request button".
+name: book-audio-request
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: Book slug (as on the shelf)
+        required: true
+        type: string
+      chapter:
+        description: Chapter number
+        required: true
+        type: string
+      title:
+        description: Book title (informational)
+        required: false
+        type: string
+        default: ""
+permissions: {}
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Validate and forward to the books webhook
+        env:
+          WEBHOOK_URL: ${{ secrets.BOOKS_WEBHOOK_URL }}
+          WEBHOOK_KEY: ${{ secrets.BOOKS_WEBHOOK_KEY }}
+        run: |
+          set -euo pipefail
+          ev="$GITHUB_EVENT_PATH"
+          slug="$(jq -r '.inputs.slug // ""' "$ev")"
+          ch="$(jq -r '.inputs.chapter // ""' "$ev")"
+          [[ "$slug" =~ ^[a-z0-9-]{1,60}$ ]] || { echo "::error::invalid slug"; exit 1; }
+          [[ "$ch" =~ ^[0-9]{1,3}$ ]] || { echo "::error::invalid chapter"; exit 1; }
+          [[ -n "$WEBHOOK_URL" && -n "$WEBHOOK_KEY" ]] || { echo "::error::BOOKS_WEBHOOK_URL / BOOKS_WEBHOOK_KEY are not set (see BOOKS.md)"; exit 1; }
+          body="$(jq -c '{kind: "bookaudio", slug: .inputs.slug, chapter: (.inputs.chapter | tonumber),
+                          title: ((.inputs.title // "") | tostring | .[0:200])}' "$ev")"
+          code="$(curl -sS -o /dev/null -w '%{http_code}' --max-time 60 -X POST \
+                   -H "Authorization: Bearer $WEBHOOK_KEY" -H 'Content-Type: application/json' \
+                   --data "$body" "$WEBHOOK_URL")" || code="000"
+          echo "forwarded bookaudio: HTTP $code"
+          [[ "$code" =~ ^2[0-9][0-9]$ ]] || { echo "::error::webhook returned HTTP $code"; exit 1; }
