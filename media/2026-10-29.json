@@ -11,8 +11,52 @@
     "updated": "2026-10-29T00:35:02-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-005-grokbot-audio.mp3?v=170046263e59"
    }
+  },
+  "a-010-gemini-4-carbon": {
+   "audio": {
+    "bytes": 7360001,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-29/a-010-gemini-4-carbon-audio.mp3",
+    "duration_s": 919.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-010-gemini-4-carbon-audio.json?v=674d140e8270",
+    "updated": "2026-10-29T00:38:00-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-010-gemini-4-carbon-audio.mp3?v=6df6cc43a248"
+   }
+  },
+  "a-020-neuralink-speech": {
+   "audio": {
+    "bytes": 5556354,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-29/a-020-neuralink-speech-audio.mp3",
+    "duration_s": 694.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-020-neuralink-speech-audio.json?v=47d0cdcefc8e",
+    "updated": "2026-10-29T00:38:00-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-020-neuralink-speech-audio.mp3?v=a36277e1659c"
+   }
+  },
+  "a-030-github-universe-copilot-fusion": {
+   "audio": {
+    "bytes": 7174920,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-29/a-030-github-universe-copilot-fusion-audio.mp3",
+    "duration_s": 896.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-030-github-universe-copilot-fusion-audio.json?v=968dbc55b924",
+    "updated": "2026-10-29T00:38:00-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-030-github-universe-copilot-fusion-audio.mp3?v=bb7d881630a9"
+   }
+  },
+  "a-040-microsoft-alphabet-earnings": {
+   "audio": {
+    "bytes": 7524315,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-29/a-040-microsoft-alphabet-earnings-audio.mp3",
+    "duration_s": 940.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-040-microsoft-alphabet-earnings-audio.json?v=f8597aa4b56d",
+    "updated": "2026-10-29T00:38:00-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-29/a-040-microsoft-alphabet-earnings-audio.mp3?v=63c139f57976"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-29T00:35:02-07:00"
+ "updated": "2026-10-29T00:38:00-07:00"
 }
