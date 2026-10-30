@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-005-grokbot-audio.mp3?v=8ddb12fc6dc7"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 9025781,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-30/a-006-cyber-audio.mp3",
+    "duration_s": 1128.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-006-cyber-audio.json?v=4f43c05f9b72",
+    "updated": "2026-10-30T04:25:46-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-006-cyber-audio.mp3?v=df8cb4809b37"
+   }
+  },
   "a-010-mistral-large-4-open-weights": {
    "audio": {
     "bytes": 7810244,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-30T01:43:17-07:00"
+ "updated": "2026-10-30T04:25:46-07:00"
 }
