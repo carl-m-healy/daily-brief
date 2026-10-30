@@ -11,8 +11,52 @@
     "updated": "2026-10-30T00:32:05-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-005-grokbot-audio.mp3?v=8ddb12fc6dc7"
    }
+  },
+  "a-010-mistral-large-4-open-weights": {
+   "audio": {
+    "bytes": 7810244,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-30/a-010-mistral-large-4-open-weights-audio.mp3",
+    "duration_s": 976.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-010-mistral-large-4-open-weights-audio.json?v=91d3879f0829",
+    "updated": "2026-10-30T01:43:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-010-mistral-large-4-open-weights-audio.mp3?v=1de28052ce98"
+   }
+  },
+  "a-020-lab-monitoring-misuse": {
+   "audio": {
+    "bytes": 6470495,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-30/a-020-lab-monitoring-misuse-audio.mp3",
+    "duration_s": 808.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-020-lab-monitoring-misuse-audio.json?v=040848b0c73c",
+    "updated": "2026-10-30T01:43:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-020-lab-monitoring-misuse-audio.mp3?v=1523ac8f456d"
+   }
+  },
+  "a-030-spacex-anthropic-customer": {
+   "audio": {
+    "bytes": 6762874,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-30/a-030-spacex-anthropic-customer-audio.mp3",
+    "duration_s": 845.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-030-spacex-anthropic-customer-audio.json?v=4dfdeeaca5a8",
+    "updated": "2026-10-30T01:43:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-030-spacex-anthropic-customer-audio.mp3?v=a39ae354b105"
+   }
+  },
+  "a-040-palisades-restart-nuclear": {
+   "audio": {
+    "bytes": 6237217,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-30/a-040-palisades-restart-nuclear-audio.mp3",
+    "duration_s": 779.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-040-palisades-restart-nuclear-audio.json?v=c67aae7cfb7e",
+    "updated": "2026-10-30T01:43:17-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-30/a-040-palisades-restart-nuclear-audio.mp3?v=2f52c4a44a87"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-30T00:32:05-07:00"
+ "updated": "2026-10-30T01:43:17-07:00"
 }
