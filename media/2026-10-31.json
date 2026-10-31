@@ -11,8 +11,52 @@
     "updated": "2026-10-31T00:24:48-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-005-grokbot-audio.mp3?v=aaa7d30e7cac"
    }
+  },
+  "a-010-nrc-acceleration": {
+   "audio": {
+    "bytes": 7057602,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-31/a-010-nrc-acceleration-audio.mp3",
+    "duration_s": 882.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-010-nrc-acceleration-audio.json?v=ecff8b9a7a2b",
+    "updated": "2026-10-31T01:48:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-010-nrc-acceleration-audio.mp3?v=33e8479066ab"
+   }
+  },
+  "a-020-anthropic-automated-misalignment-research": {
+   "audio": {
+    "bytes": 6775325,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-31/a-020-anthropic-automated-misalignment-research-audio.mp3",
+    "duration_s": 846.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-020-anthropic-automated-misalignment-research-audio.json?v=42f3abc0b1e7",
+    "updated": "2026-10-31T01:48:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-020-anthropic-automated-misalignment-research-audio.mp3?v=29b514e50dff"
+   }
+  },
+  "a-030-launch-crunch": {
+   "audio": {
+    "bytes": 6537436,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-31/a-030-launch-crunch-audio.mp3",
+    "duration_s": 817.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-030-launch-crunch-audio.json?v=1b9fda6658f9",
+    "updated": "2026-10-31T01:48:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-030-launch-crunch-audio.mp3?v=b3d8b2068548"
+   }
+  },
+  "a-040-agility-nasdaq": {
+   "audio": {
+    "bytes": 6524974,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-10-31/a-040-agility-nasdaq-audio.mp3",
+    "duration_s": 815.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-040-agility-nasdaq-audio.json?v=c0038b78e557",
+    "updated": "2026-10-31T01:48:55-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-10-31/a-040-agility-nasdaq-audio.mp3?v=c5655ed9b699"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-10-31T00:24:48-07:00"
+ "updated": "2026-10-31T01:48:55-07:00"
 }
