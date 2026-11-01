@@ -11,8 +11,52 @@
     "updated": "2026-11-01T00:27:57-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-005-grokbot-audio.mp3?v=731d1a467335"
    }
+  },
+  "a-010-moon-race-artemis-china": {
+   "audio": {
+    "bytes": 6516168,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-01/a-010-moon-race-artemis-china-audio.mp3",
+    "duration_s": 814.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-010-moon-race-artemis-china-audio.json?v=3af4e6d9192f",
+    "updated": "2026-11-01T01:53:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-010-moon-race-artemis-china-audio.mp3?v=6633af29adcc"
+   }
+  },
+  "a-020-iea-energy-investment-2026": {
+   "audio": {
+    "bytes": 6984630,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-01/a-020-iea-energy-investment-2026-audio.mp3",
+    "duration_s": 873.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-020-iea-energy-investment-2026-audio.json?v=5541a7d571fa",
+    "updated": "2026-11-01T01:53:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-020-iea-energy-investment-2026-audio.mp3?v=c6f11a4b3827"
+   }
+  },
+  "a-030-inference-software-race": {
+   "audio": {
+    "bytes": 8066794,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-01/a-030-inference-software-race-audio.mp3",
+    "duration_s": 1008.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-030-inference-software-race-audio.json?v=0cce26434a46",
+    "updated": "2026-11-01T01:53:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-030-inference-software-race-audio.mp3?v=97d620747425"
+   }
+  },
+  "a-040-roblox-ai-creation": {
+   "audio": {
+    "bytes": 6620230,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-01/a-040-roblox-ai-creation-audio.mp3",
+    "duration_s": 827.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-040-roblox-ai-creation-audio.json?v=626a01b8de39",
+    "updated": "2026-11-01T01:53:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-040-roblox-ai-creation-audio.mp3?v=0b2726bede0e"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-01T00:27:57-07:00"
+ "updated": "2026-11-01T01:53:35-07:00"
 }
