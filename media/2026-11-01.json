@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-005-grokbot-audio.mp3?v=731d1a467335"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 6950646,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-01/a-006-cyber-audio.mp3",
+    "duration_s": 868.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-006-cyber-audio.json?v=6fe560269691",
+    "updated": "2026-11-01T01:58:33-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-01/a-006-cyber-audio.mp3?v=e908580cc911"
+   }
+  },
   "a-010-moon-race-artemis-china": {
    "audio": {
     "bytes": 6516168,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-01T01:53:35-07:00"
+ "updated": "2026-11-01T01:58:33-07:00"
 }
