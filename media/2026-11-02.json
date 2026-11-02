@@ -11,8 +11,52 @@
     "updated": "2026-11-02T00:27:21-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-005-grokbot-audio.mp3?v=8c2343a1348c"
    }
+  },
+  "a-010-gdpx-benchmark": {
+   "audio": {
+    "bytes": 6424366,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-02/a-010-gdpx-benchmark-audio.mp3",
+    "duration_s": 803.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-010-gdpx-benchmark-audio.json?v=ddd7b218bdd7",
+    "updated": "2026-11-02T01:54:37-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-010-gdpx-benchmark-audio.mp3?v=a7862b796e2c"
+   }
+  },
+  "a-020-datacenter-backlash-midterms": {
+   "audio": {
+    "bytes": 7444462,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-02/a-020-datacenter-backlash-midterms-audio.mp3",
+    "duration_s": 930.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-020-datacenter-backlash-midterms-audio.json?v=47d540d39c34",
+    "updated": "2026-11-02T01:54:37-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-020-datacenter-backlash-midterms-audio.mp3?v=e29c86c14db8"
+   }
+  },
+  "a-030-autonomous-battery-labs": {
+   "audio": {
+    "bytes": 7256317,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-02/a-030-autonomous-battery-labs-audio.mp3",
+    "duration_s": 907.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-030-autonomous-battery-labs-audio.json?v=74ec166e0fb3",
+    "updated": "2026-11-02T01:54:37-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-030-autonomous-battery-labs-audio.mp3?v=50d518c454e5"
+   }
+  },
+  "a-040-nvidia-agentx-hbm-inference": {
+   "audio": {
+    "bytes": 7495355,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-02/a-040-nvidia-agentx-hbm-inference-audio.mp3",
+    "duration_s": 936.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-040-nvidia-agentx-hbm-inference-audio.json?v=d5b1afe112d3",
+    "updated": "2026-11-02T01:54:37-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-02/a-040-nvidia-agentx-hbm-inference-audio.mp3?v=8f4e351a8974"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-02T00:27:21-07:00"
+ "updated": "2026-11-02T01:54:37-07:00"
 }
