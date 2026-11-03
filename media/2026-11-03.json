@@ -22,8 +22,52 @@
     "updated": "2026-11-03T01:57:21-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-006-cyber-audio.mp3?v=48375cc2d46b"
    }
+  },
+  "a-010-astra-weight-editing": {
+   "audio": {
+    "bytes": 7583869,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-03/a-010-astra-weight-editing-audio.mp3",
+    "duration_s": 947.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-010-astra-weight-editing-audio.json?v=5c3ef29182d3",
+    "updated": "2026-11-03T01:59:42-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-010-astra-weight-editing-audio.mp3?v=9b11499480cc"
+   }
+  },
+  "a-020-anthropic-s1a-q3": {
+   "audio": {
+    "bytes": 7562782,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-03/a-020-anthropic-s1a-q3-audio.mp3",
+    "duration_s": 945.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-020-anthropic-s1a-q3-audio.json?v=1560c9c87e33",
+    "updated": "2026-11-03T01:59:42-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-020-anthropic-s1a-q3-audio.mp3?v=5caa2c1f92e4"
+   }
+  },
+  "a-030-openai-pando-git": {
+   "audio": {
+    "bytes": 6695872,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-03/a-030-openai-pando-git-audio.mp3",
+    "duration_s": 836.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-030-openai-pando-git-audio.json?v=46e586cefbcf",
+    "updated": "2026-11-03T01:59:42-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-030-openai-pando-git-audio.mp3?v=212644b61feb"
+   }
+  },
+  "a-040-china-crewed-moon-schedule": {
+   "audio": {
+    "bytes": 5764283,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-03/a-040-china-crewed-moon-schedule-audio.mp3",
+    "duration_s": 720.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-040-china-crewed-moon-schedule-audio.json?v=777f9132be9e",
+    "updated": "2026-11-03T01:59:42-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-03/a-040-china-crewed-moon-schedule-audio.mp3?v=cf314802b51b"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-03T01:57:21-07:00"
+ "updated": "2026-11-03T01:59:42-07:00"
 }
