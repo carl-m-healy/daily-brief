@@ -11,8 +11,52 @@
     "updated": "2026-11-04T00:30:29-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-005-grokbot-audio.mp3?v=993540a54d4e"
    }
+  },
+  "a-010-openai-physical-engineering": {
+   "audio": {
+    "bytes": 6291873,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-04/a-010-openai-physical-engineering-audio.mp3",
+    "duration_s": 786.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-010-openai-physical-engineering-audio.json?v=2e38ab3fd59d",
+    "updated": "2026-11-04T01:33:44-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-010-openai-physical-engineering-audio.mp3?v=b8bc0e60a96d"
+   }
+  },
+  "a-020-anthropic-flashprove": {
+   "audio": {
+    "bytes": 6622288,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-04/a-020-anthropic-flashprove-audio.mp3",
+    "duration_s": 827.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-020-anthropic-flashprove-audio.json?v=935a4ef834a8",
+    "updated": "2026-11-04T01:33:44-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-020-anthropic-flashprove-audio.mp3?v=9006424f3524"
+   }
+  },
+  "a-030-orbital-compute": {
+   "audio": {
+    "bytes": 6791862,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-04/a-030-orbital-compute-audio.mp3",
+    "duration_s": 848.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-030-orbital-compute-audio.json?v=3dfb214c772d",
+    "updated": "2026-11-04T01:33:44-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-030-orbital-compute-audio.mp3?v=f56a25561e42"
+   }
+  },
+  "a-040-shield-ai-xbat": {
+   "audio": {
+    "bytes": 6123660,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-04/a-040-shield-ai-xbat-audio.mp3",
+    "duration_s": 765.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-040-shield-ai-xbat-audio.json?v=2cc802209d93",
+    "updated": "2026-11-04T01:33:44-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-040-shield-ai-xbat-audio.mp3?v=dfb8fc87d194"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-04T00:30:29-07:00"
+ "updated": "2026-11-04T01:33:44-07:00"
 }
