@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-005-grokbot-audio.mp3?v=993540a54d4e"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 7161094,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-04/a-006-cyber-audio.mp3",
+    "duration_s": 895.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-006-cyber-audio.json?v=cfbf10ffdd0b",
+    "updated": "2026-11-04T02:08:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-04/a-006-cyber-audio.mp3?v=3dfa8a55d9eb"
+   }
+  },
   "a-010-openai-physical-engineering": {
    "audio": {
     "bytes": 6291873,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-04T01:33:44-07:00"
+ "updated": "2026-11-04T02:08:13-07:00"
 }
