@@ -11,8 +11,52 @@
     "updated": "2026-11-05T00:29:26-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-005-grokbot-audio.mp3?v=c3acd3bca5d3"
    }
+  },
+  "a-010-chatgpt-images-26": {
+   "audio": {
+    "bytes": 5970856,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-05/a-010-chatgpt-images-26-audio.mp3",
+    "duration_s": 746.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-010-chatgpt-images-26-audio.json?v=b93cf924c503",
+    "updated": "2026-11-05T01:08:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-010-chatgpt-images-26-audio.mp3?v=c261a47717a1"
+   }
+  },
+  "a-020-anthropic-vault-particle": {
+   "audio": {
+    "bytes": 5930523,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-05/a-020-anthropic-vault-particle-audio.mp3",
+    "duration_s": 741.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-020-anthropic-vault-particle-audio.json?v=9bdef95e7233",
+    "updated": "2026-11-05T01:08:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-020-anthropic-vault-particle-audio.mp3?v=cd41c93b5384"
+   }
+  },
+  "a-030-starlink-mobile": {
+   "audio": {
+    "bytes": 6530341,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-05/a-030-starlink-mobile-audio.mp3",
+    "duration_s": 816.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-030-starlink-mobile-audio.json?v=0db5a40ec352",
+    "updated": "2026-11-05T01:08:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-030-starlink-mobile-audio.mp3?v=a6ef7e579f3f"
+   }
+  },
+  "a-040-apollo-ai-chips": {
+   "audio": {
+    "bytes": 6697376,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-05/a-040-apollo-ai-chips-audio.mp3",
+    "duration_s": 837.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-040-apollo-ai-chips-audio.json?v=057621296dfa",
+    "updated": "2026-11-05T01:08:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-05/a-040-apollo-ai-chips-audio.mp3?v=4ebaf22ea2cd"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-05T00:29:26-07:00"
+ "updated": "2026-11-05T01:08:02-07:00"
 }
