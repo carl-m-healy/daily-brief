@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-005-grokbot-audio.mp3?v=ea4da2c3a091"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 7438343,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-006-cyber-audio.mp3",
+    "duration_s": 929.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-006-cyber-audio.json?v=4fc666586e11",
+    "updated": "2026-11-06T01:57:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-006-cyber-audio.mp3?v=2968d02330b8"
+   }
+  },
   "a-010-metr-anthropic-acceleration": {
    "audio": {
     "bytes": 7375552,
@@ -69,5 +80,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-06T00:45:45-07:00"
+ "updated": "2026-11-06T01:57:09-07:00"
 }
