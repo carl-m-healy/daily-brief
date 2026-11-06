@@ -11,8 +11,63 @@
     "updated": "2026-11-06T00:35:48-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-005-grokbot-audio.mp3?v=ea4da2c3a091"
    }
+  },
+  "a-010-metr-anthropic-acceleration": {
+   "audio": {
+    "bytes": 7375552,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-010-metr-anthropic-acceleration-audio.mp3",
+    "duration_s": 921.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-010-metr-anthropic-acceleration-audio.json?v=64619bad1677",
+    "updated": "2026-11-06T00:45:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-010-metr-anthropic-acceleration-audio.mp3?v=c54622cffd4a"
+   }
+  },
+  "a-020-inkling-2-small": {
+   "audio": {
+    "bytes": 7879149,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-020-inkling-2-small-audio.mp3",
+    "duration_s": 984.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-020-inkling-2-small-audio.json?v=721821492f49",
+    "updated": "2026-11-06T00:45:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-020-inkling-2-small-audio.mp3?v=31b428d3da52"
+   }
+  },
+  "a-030-blue-origin-gs3-northstar": {
+   "audio": {
+    "bytes": 5951866,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-030-blue-origin-gs3-northstar-audio.mp3",
+    "duration_s": 743.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-030-blue-origin-gs3-northstar-audio.json?v=9137317295d9",
+    "updated": "2026-11-06T00:45:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-030-blue-origin-gs3-northstar-audio.mp3?v=34ebfc66a47f"
+   }
+  },
+  "a-040-blood-on-the-clocktower": {
+   "audio": {
+    "bytes": 6901510,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-040-blood-on-the-clocktower-audio.mp3",
+    "duration_s": 862.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-040-blood-on-the-clocktower-audio.json?v=61b8c5695ade",
+    "updated": "2026-11-06T00:45:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-040-blood-on-the-clocktower-audio.mp3?v=48915972d733"
+   }
+  },
+  "a-050-claude-personal-finance": {
+   "audio": {
+    "bytes": 6274399,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-06/a-050-claude-personal-finance-audio.mp3",
+    "duration_s": 784.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-050-claude-personal-finance-audio.json?v=d3b49a629752",
+    "updated": "2026-11-06T00:45:45-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-06/a-050-claude-personal-finance-audio.mp3?v=6b44f0fb4172"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-06T00:35:48-07:00"
+ "updated": "2026-11-06T00:45:45-07:00"
 }
