@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-07",
+ "items": {
+  "a-010-claude-dreaming-memory": {
+   "audio": {
+    "bytes": 6263643,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-010-claude-dreaming-memory-audio.mp3",
+    "duration_s": 782.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-010-claude-dreaming-memory-audio.json?v=020f88cc18cf",
+    "updated": "2026-11-07T00:32:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-010-claude-dreaming-memory-audio.mp3?v=70e254b9e4dd"
+   }
+  },
+  "a-020-anthropic-ai-science": {
+   "audio": {
+    "bytes": 6883607,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-020-anthropic-ai-science-audio.mp3",
+    "duration_s": 860.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-020-anthropic-ai-science-audio.json?v=2e9068d17d9e",
+    "updated": "2026-11-07T00:32:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-020-anthropic-ai-science-audio.mp3?v=aa51672ab170"
+   }
+  },
+  "a-030-iea-renewables-2026": {
+   "audio": {
+    "bytes": 7654296,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-030-iea-renewables-2026-audio.mp3",
+    "duration_s": 956.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-030-iea-renewables-2026-audio.json?v=fed32c9d4e67",
+    "updated": "2026-11-07T00:32:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-030-iea-renewables-2026-audio.mp3?v=28823ca1ae78"
+   }
+  },
+  "a-040-cybertruck-ends": {
+   "audio": {
+    "bytes": 5950114,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-040-cybertruck-ends-audio.mp3",
+    "duration_s": 743.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-040-cybertruck-ends-audio.json?v=e0404d81863c",
+    "updated": "2026-11-07T00:32:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-040-cybertruck-ends-audio.mp3?v=4c0e7c2c650a"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-11-07T00:32:10-07:00"
+}
