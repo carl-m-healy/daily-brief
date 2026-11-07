@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-005-grokbot-audio.mp3?v=a037eb7ed7f2"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8779269,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-006-cyber-audio.mp3",
+    "duration_s": 1097.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-006-cyber-audio.json?v=534c0df3af06",
+    "updated": "2026-11-07T02:09:39-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-006-cyber-audio.mp3?v=9c3a93d07004"
+   }
+  },
   "a-010-claude-dreaming-memory": {
    "audio": {
     "bytes": 6263643,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-07T00:40:58-07:00"
+ "updated": "2026-11-07T02:09:39-07:00"
 }
