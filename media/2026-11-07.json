@@ -1,6 +1,17 @@
 {
  "date": "2026-11-07",
  "items": {
+  "a-005-grokbot": {
+   "audio": {
+    "bytes": 5570148,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-07/a-005-grokbot-audio.mp3",
+    "duration_s": 696.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-005-grokbot-audio.json?v=eecdda8d075e",
+    "updated": "2026-11-07T00:40:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-07/a-005-grokbot-audio.mp3?v=a037eb7ed7f2"
+   }
+  },
   "a-010-claude-dreaming-memory": {
    "audio": {
     "bytes": 6263643,
@@ -47,5 +58,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-07T00:32:10-07:00"
+ "updated": "2026-11-07T00:40:58-07:00"
 }
