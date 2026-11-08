@@ -11,8 +11,52 @@
     "updated": "2026-11-08T00:38:21-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-005-grokbot-audio.mp3?v=15aedd0e4b28"
    }
+  },
+  "a-010-starship-flight-15": {
+   "audio": {
+    "bytes": 6718305,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-08/a-010-starship-flight-15-audio.mp3",
+    "duration_s": 839.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-010-starship-flight-15-audio.json?v=b7eacb4e08d5",
+    "updated": "2026-11-08T01:01:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-010-starship-flight-15-audio.mp3?v=295f00caf658"
+   }
+  },
+  "a-020-nasa-moon-base": {
+   "audio": {
+    "bytes": 7245342,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-08/a-020-nasa-moon-base-audio.mp3",
+    "duration_s": 905.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-020-nasa-moon-base-audio.json?v=a969a0b04139",
+    "updated": "2026-11-08T01:01:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-020-nasa-moon-base-audio.mp3?v=86398342440a"
+   }
+  },
+  "a-030-china-stargate-inner-mongolia": {
+   "audio": {
+    "bytes": 8173853,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-08/a-030-china-stargate-inner-mongolia-audio.mp3",
+    "duration_s": 1021.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-030-china-stargate-inner-mongolia-audio.json?v=e248d8d25604",
+    "updated": "2026-11-08T01:01:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-030-china-stargate-inner-mongolia-audio.mp3?v=87e2a4ec74c1"
+   }
+  },
+  "a-040-aha-heart-trials": {
+   "audio": {
+    "bytes": 8160404,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-08/a-040-aha-heart-trials-audio.mp3",
+    "duration_s": 1020.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-040-aha-heart-trials-audio.json?v=f4ad1578a5e4",
+    "updated": "2026-11-08T01:01:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-040-aha-heart-trials-audio.mp3?v=03e6f7028df1"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-08T00:38:21-07:00"
+ "updated": "2026-11-08T01:01:07-07:00"
 }
