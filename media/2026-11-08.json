@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-005-grokbot-audio.mp3?v=15aedd0e4b28"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 6656131,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-08/a-006-cyber-audio.mp3",
+    "duration_s": 832.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-006-cyber-audio.json?v=8f5c2cc9dd44",
+    "updated": "2026-11-08T02:09:25-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-08/a-006-cyber-audio.mp3?v=49ed0bef7f72"
+   }
+  },
   "a-010-starship-flight-15": {
    "audio": {
     "bytes": 6718305,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-08T01:01:07-07:00"
+ "updated": "2026-11-08T02:09:25-07:00"
 }
