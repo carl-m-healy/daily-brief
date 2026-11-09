@@ -1,6 +1,17 @@
 {
  "date": "2026-11-09",
  "items": {
+  "a-005-grokbot": {
+   "audio": {
+    "bytes": 4548293,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-09/a-005-grokbot-audio.mp3",
+    "duration_s": 568.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-005-grokbot-audio.json?v=a433f9eb159e",
+    "updated": "2026-11-09T01:13:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-005-grokbot-audio.mp3?v=d55c6b958684"
+   }
+  },
   "a-010-nvidia-board-probe": {
    "audio": {
     "bytes": 7063357,
@@ -47,5 +58,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-09T00:37:28-07:00"
+ "updated": "2026-11-09T01:13:29-07:00"
 }
