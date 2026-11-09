@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-09",
+ "items": {
+  "a-010-nvidia-board-probe": {
+   "audio": {
+    "bytes": 7063357,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-09/a-010-nvidia-board-probe-audio.mp3",
+    "duration_s": 882.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-010-nvidia-board-probe-audio.json?v=126510446478",
+    "updated": "2026-11-09T00:37:28-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-010-nvidia-board-probe-audio.mp3?v=002ddf86b726"
+   }
+  },
+  "a-020-aha-glp1-knee-hfpef": {
+   "audio": {
+    "bytes": 7238268,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-09/a-020-aha-glp1-knee-hfpef-audio.mp3",
+    "duration_s": 904.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-020-aha-glp1-knee-hfpef-audio.json?v=5c19abc2dd25",
+    "updated": "2026-11-09T00:37:28-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-020-aha-glp1-knee-hfpef-audio.mp3?v=6e1213b86559"
+   }
+  },
+  "a-030-aa-decision-index-v2": {
+   "audio": {
+    "bytes": 6105263,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-09/a-030-aa-decision-index-v2-audio.mp3",
+    "duration_s": 763.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-030-aa-decision-index-v2-audio.json?v=f09e85f32d0a",
+    "updated": "2026-11-09T00:37:28-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-030-aa-decision-index-v2-audio.mp3?v=2405d64b684e"
+   }
+  },
+  "a-040-carbonbrief-datacentre-energy": {
+   "audio": {
+    "bytes": 6918545,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-09/a-040-carbonbrief-datacentre-energy-audio.mp3",
+    "duration_s": 864.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-040-carbonbrief-datacentre-energy-audio.json?v=7727a52c6f29",
+    "updated": "2026-11-09T00:37:28-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-09/a-040-carbonbrief-datacentre-energy-audio.mp3?v=fc010deb5e52"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-11-09T00:37:28-07:00"
+}
