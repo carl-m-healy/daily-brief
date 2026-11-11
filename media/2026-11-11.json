@@ -11,8 +11,52 @@
     "updated": "2026-11-11T00:31:33-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-005-grokbot-audio.mp3?v=737aa0812de4"
    }
+  },
+  "a-010-gemini-4-carbon": {
+   "audio": {
+    "bytes": 7644713,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-11/a-010-gemini-4-carbon-audio.mp3",
+    "duration_s": 955.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-010-gemini-4-carbon-audio.json?v=f75854446f80",
+    "updated": "2026-11-11T01:54:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-010-gemini-4-carbon-audio.mp3?v=9b5aef0a4cb9"
+   }
+  },
+  "a-020-nvidia-huang-chips": {
+   "audio": {
+    "bytes": 6378676,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-11/a-020-nvidia-huang-chips-audio.mp3",
+    "duration_s": 797.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-020-nvidia-huang-chips-audio.json?v=f01e9c7862f1",
+    "updated": "2026-11-11T01:54:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-020-nvidia-huang-chips-audio.mp3?v=6d6e25bc6cad"
+   }
+  },
+  "a-030-anthropic-ipo-revenue": {
+   "audio": {
+    "bytes": 7051415,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-11/a-030-anthropic-ipo-revenue-audio.mp3",
+    "duration_s": 881.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-030-anthropic-ipo-revenue-audio.json?v=12ca1f92b718",
+    "updated": "2026-11-11T01:54:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-030-anthropic-ipo-revenue-audio.mp3?v=18b0ec160ebd"
+   }
+  },
+  "a-040-robot-foundation-models": {
+   "audio": {
+    "bytes": 7158953,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-11/a-040-robot-foundation-models-audio.mp3",
+    "duration_s": 894.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-040-robot-foundation-models-audio.json?v=01cc0a4cfdbe",
+    "updated": "2026-11-11T01:54:23-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-040-robot-foundation-models-audio.mp3?v=a90ffa6ebe9a"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-11T00:31:33-07:00"
+ "updated": "2026-11-11T01:54:23-07:00"
 }
