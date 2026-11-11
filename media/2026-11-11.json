@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-005-grokbot-audio.mp3?v=737aa0812de4"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 7800652,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-11/a-006-cyber-audio.mp3",
+    "duration_s": 975.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-006-cyber-audio.json?v=83ef5762ad11",
+    "updated": "2026-11-11T02:04:37-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-11/a-006-cyber-audio.mp3?v=6becb09cbbd6"
+   }
+  },
   "a-010-gemini-4-carbon": {
    "audio": {
     "bytes": 7644713,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-11T01:54:23-07:00"
+ "updated": "2026-11-11T02:04:37-07:00"
 }
