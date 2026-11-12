@@ -1,0 +1,51 @@
+{
+ "date": "2026-11-12",
+ "items": {
+  "a-010-gemini-decision-1": {
+   "audio": {
+    "bytes": 6697183,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-12/a-010-gemini-decision-1-audio.mp3",
+    "duration_s": 837.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-010-gemini-decision-1-audio.json?v=12b63a4e94a6",
+    "updated": "2026-11-12T00:36:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-010-gemini-decision-1-audio.mp3?v=065b33b4aaad"
+   }
+  },
+  "a-020-alphagenome-2": {
+   "audio": {
+    "bytes": 7103064,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-12/a-020-alphagenome-2-audio.mp3",
+    "duration_s": 887.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-020-alphagenome-2-audio.json?v=3892f870f1dd",
+    "updated": "2026-11-12T00:36:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-020-alphagenome-2-audio.mp3?v=0ede8419ee28"
+   }
+  },
+  "a-030-nvidia-huang-board": {
+   "audio": {
+    "bytes": 6447191,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-12/a-030-nvidia-huang-board-audio.mp3",
+    "duration_s": 805.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-030-nvidia-huang-board-audio.json?v=532e2b47c376",
+    "updated": "2026-11-12T00:36:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-030-nvidia-huang-board-audio.mp3?v=d0116c2c35b2"
+   }
+  },
+  "a-040-runway-praxis-1": {
+   "audio": {
+    "bytes": 6876898,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-12/a-040-runway-praxis-1-audio.mp3",
+    "duration_s": 859.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-040-runway-praxis-1-audio.json?v=01a07b343340",
+    "updated": "2026-11-12T00:36:02-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-12/a-040-runway-praxis-1-audio.mp3?v=a46543b7712e"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-11-12T00:36:02-07:00"
+}
