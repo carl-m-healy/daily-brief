@@ -11,8 +11,52 @@
     "updated": "2026-11-13T00:27:00-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-005-grokbot-audio.mp3?v=97e6bb5cb7a7"
    }
+  },
+  "a-010-nvidia-ceo-transition": {
+   "audio": {
+    "bytes": 6945036,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-13/a-010-nvidia-ceo-transition-audio.mp3",
+    "duration_s": 868.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-010-nvidia-ceo-transition-audio.json?v=f665f36e6202",
+    "updated": "2026-11-13T04:24:40-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-010-nvidia-ceo-transition-audio.mp3?v=1ac5ba9ae697"
+   }
+  },
+  "a-020-gemini-4-hydrogen": {
+   "audio": {
+    "bytes": 6851538,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-13/a-020-gemini-4-hydrogen-audio.mp3",
+    "duration_s": 856.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-020-gemini-4-hydrogen-audio.json?v=66cef425776d",
+    "updated": "2026-11-13T04:24:40-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-020-gemini-4-hydrogen-audio.mp3?v=dac3e7c2c7f8"
+   }
+  },
+  "a-030-anthropic-ipo-prospectus": {
+   "audio": {
+    "bytes": 7506469,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-13/a-030-anthropic-ipo-prospectus-audio.mp3",
+    "duration_s": 938.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-030-anthropic-ipo-prospectus-audio.json?v=8f4d6c876b04",
+    "updated": "2026-11-13T04:24:40-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-030-anthropic-ipo-prospectus-audio.mp3?v=6862887398a6"
+   }
+  },
+  "a-040-starship-flight-15": {
+   "audio": {
+    "bytes": 6312782,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-13/a-040-starship-flight-15-audio.mp3",
+    "duration_s": 789.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-040-starship-flight-15-audio.json?v=91ab947deabe",
+    "updated": "2026-11-13T04:24:40-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-040-starship-flight-15-audio.mp3?v=5c4727e4f7ab"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-13T00:27:00-07:00"
+ "updated": "2026-11-13T04:24:40-07:00"
 }
