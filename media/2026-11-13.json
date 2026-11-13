@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-005-grokbot-audio.mp3?v=97e6bb5cb7a7"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 9323398,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-13/a-006-cyber-audio.mp3",
+    "duration_s": 1165.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-006-cyber-audio.json?v=4ee13d1d7fa5",
+    "updated": "2026-11-13T08:39:47-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-13/a-006-cyber-audio.mp3?v=05df766426f2"
+   }
+  },
   "a-010-nvidia-ceo-transition": {
    "audio": {
     "bytes": 6945036,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-13T04:24:40-07:00"
+ "updated": "2026-11-13T08:39:47-07:00"
 }
