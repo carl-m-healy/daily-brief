@@ -11,8 +11,52 @@
     "updated": "2026-11-16T00:35:54-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-005-grokbot-audio.mp3?v=c8b4fa078cc4"
    }
+  },
+  "a-010-vulcan-leo1-failure": {
+   "audio": {
+    "bytes": 6150355,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-16/a-010-vulcan-leo1-failure-audio.mp3",
+    "duration_s": 768.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-010-vulcan-leo1-failure-audio.json?v=506cac0e914e",
+    "updated": "2026-11-16T01:45:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-010-vulcan-leo1-failure-audio.mp3?v=efb9c3608384"
+   }
+  },
+  "a-020-starship-ship-catch": {
+   "audio": {
+    "bytes": 5860819,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-16/a-020-starship-ship-catch-audio.mp3",
+    "duration_s": 732.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-020-starship-ship-catch-audio.json?v=f3556bdb3b96",
+    "updated": "2026-11-16T01:45:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-020-starship-ship-catch-audio.mp3?v=647248431fc6"
+   }
+  },
+  "a-030-qwen4-max": {
+   "audio": {
+    "bytes": 7005672,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-16/a-030-qwen4-max-audio.mp3",
+    "duration_s": 875.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-030-qwen4-max-audio.json?v=3a2e66237eb0",
+    "updated": "2026-11-16T01:45:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-030-qwen4-max-audio.mp3?v=fa3b9477fe08"
+   }
+  },
+  "a-040-gpt6-astra-physics": {
+   "audio": {
+    "bytes": 7319500,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-16/a-040-gpt6-astra-physics-audio.mp3",
+    "duration_s": 914.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-040-gpt6-astra-physics-audio.json?v=0c3901fb2755",
+    "updated": "2026-11-16T01:45:41-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-040-gpt6-astra-physics-audio.mp3?v=5956850bdf22"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-16T00:35:54-07:00"
+ "updated": "2026-11-16T01:45:41-07:00"
 }
