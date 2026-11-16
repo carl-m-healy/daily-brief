@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-005-grokbot-audio.mp3?v=c8b4fa078cc4"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 7756473,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-16/a-006-cyber-audio.mp3",
+    "duration_s": 969.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-006-cyber-audio.json?v=a6f21b74569c",
+    "updated": "2026-11-16T01:56:42-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-16/a-006-cyber-audio.mp3?v=1b526f2bb130"
+   }
+  },
   "a-010-vulcan-leo1-failure": {
    "audio": {
     "bytes": 6150355,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-16T01:45:41-07:00"
+ "updated": "2026-11-16T01:56:42-07:00"
 }
