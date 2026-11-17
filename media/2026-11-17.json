@@ -11,8 +11,63 @@
     "updated": "2026-11-17T00:31:55-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-005-grokbot-audio.mp3?v=d48cce92fb28"
    }
+  },
+  "a-010-nvidia-succession": {
+   "audio": {
+    "bytes": 6535559,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-010-nvidia-succession-audio.mp3",
+    "duration_s": 816.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-010-nvidia-succession-audio.json?v=5c83f8a86364",
+    "updated": "2026-11-17T01:45:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-010-nvidia-succession-audio.mp3?v=1e6e834f4e2d"
+   }
+  },
+  "a-020-openai-embedded-assessments": {
+   "audio": {
+    "bytes": 6738790,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-020-openai-embedded-assessments-audio.mp3",
+    "duration_s": 842.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-020-openai-embedded-assessments-audio.json?v=8559912a2e83",
+    "updated": "2026-11-17T01:45:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-020-openai-embedded-assessments-audio.mp3?v=5178e0d944e4"
+   }
+  },
+  "a-030-microsoft-outage": {
+   "audio": {
+    "bytes": 6786884,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-030-microsoft-outage-audio.mp3",
+    "duration_s": 848.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-030-microsoft-outage-audio.json?v=475a66d73b5c",
+    "updated": "2026-11-17T01:45:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-030-microsoft-outage-audio.mp3?v=b2aab87d0d8a"
+   }
+  },
+  "a-040-chip-export-loophole": {
+   "audio": {
+    "bytes": 7059143,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-040-chip-export-loophole-audio.mp3",
+    "duration_s": 882.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-040-chip-export-loophole-audio.json?v=9cc832e5151e",
+    "updated": "2026-11-17T01:45:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-040-chip-export-loophole-audio.mp3?v=915619909e50"
+   }
+  },
+  "a-050-sparc-80-percent": {
+   "audio": {
+    "bytes": 6165740,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-050-sparc-80-percent-audio.mp3",
+    "duration_s": 770.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-050-sparc-80-percent-audio.json?v=28d6bd946455",
+    "updated": "2026-11-17T01:45:09-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-050-sparc-80-percent-audio.mp3?v=9472eb194276"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-17T00:31:55-07:00"
+ "updated": "2026-11-17T01:45:09-07:00"
 }
