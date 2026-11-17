@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-005-grokbot-audio.mp3?v=d48cce92fb28"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8172345,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-17/a-006-cyber-audio.mp3",
+    "duration_s": 1021.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-006-cyber-audio.json?v=5cc89d9fcb10",
+    "updated": "2026-11-17T01:49:40-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-17/a-006-cyber-audio.mp3?v=4cfb3f6977cf"
+   }
+  },
   "a-010-nvidia-succession": {
    "audio": {
     "bytes": 6535559,
@@ -69,5 +80,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-17T01:45:09-07:00"
+ "updated": "2026-11-17T01:49:40-07:00"
 }
