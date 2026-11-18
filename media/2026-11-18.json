@@ -11,8 +11,52 @@
     "updated": "2026-11-18T00:36:56-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-005-grokbot-audio.mp3?v=31b0191cc2f3"
    }
+  },
+  "a-010-gpt62-astra-sol": {
+   "audio": {
+    "bytes": 7116737,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-18/a-010-gpt62-astra-sol-audio.mp3",
+    "duration_s": 889.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-010-gpt62-astra-sol-audio.json?v=3b2dc9e92fd0",
+    "updated": "2026-11-18T00:44:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-010-gpt62-astra-sol-audio.mp3?v=890c60c976ce"
+   }
+  },
+  "a-020-nvidia-q3-oversight": {
+   "audio": {
+    "bytes": 6624077,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-18/a-020-nvidia-q3-oversight-audio.mp3",
+    "duration_s": 828.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-020-nvidia-q3-oversight-audio.json?v=b9a20c2961d6",
+    "updated": "2026-11-18T00:44:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-020-nvidia-q3-oversight-audio.mp3?v=efd1b853398b"
+   }
+  },
+  "a-030-isomorphic-5b": {
+   "audio": {
+    "bytes": 5487584,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-18/a-030-isomorphic-5b-audio.mp3",
+    "duration_s": 685.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-030-isomorphic-5b-audio.json?v=f0e653cb3bf9",
+    "updated": "2026-11-18T00:44:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-030-isomorphic-5b-audio.mp3?v=230072c852c8"
+   }
+  },
+  "a-040-microsoft-ignite": {
+   "audio": {
+    "bytes": 7192203,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-18/a-040-microsoft-ignite-audio.mp3",
+    "duration_s": 899.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-040-microsoft-ignite-audio.json?v=3cf2972f0dbe",
+    "updated": "2026-11-18T00:44:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-040-microsoft-ignite-audio.mp3?v=1e6df973fcb5"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-18T00:36:56-07:00"
+ "updated": "2026-11-18T00:44:54-07:00"
 }
