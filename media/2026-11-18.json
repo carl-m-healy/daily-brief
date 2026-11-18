@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-005-grokbot-audio.mp3?v=31b0191cc2f3"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 9913784,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-18/a-006-cyber-audio.mp3",
+    "duration_s": 1239.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-006-cyber-audio.json?v=7d92a0018d4c",
+    "updated": "2026-11-18T04:24:57-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-18/a-006-cyber-audio.mp3?v=9ec2fe1f5cd4"
+   }
+  },
   "a-010-gpt62-astra-sol": {
    "audio": {
     "bytes": 7116737,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-18T00:44:54-07:00"
+ "updated": "2026-11-18T04:24:57-07:00"
 }
