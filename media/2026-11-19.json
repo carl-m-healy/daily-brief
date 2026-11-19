@@ -11,8 +11,52 @@
     "updated": "2026-11-19T00:32:57-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-005-grokbot-audio.mp3?v=0999f1db5b22"
    }
+  },
+  "a-010-gemini-4-neon": {
+   "audio": {
+    "bytes": 7185813,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-19/a-010-gemini-4-neon-audio.mp3",
+    "duration_s": 898.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-010-gemini-4-neon-audio.json?v=befcba448788",
+    "updated": "2026-11-19T01:41:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-010-gemini-4-neon-audio.mp3?v=33e881bb4294"
+   }
+  },
+  "a-020-openai-ai-research": {
+   "audio": {
+    "bytes": 7553890,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-19/a-020-openai-ai-research-audio.mp3",
+    "duration_s": 944.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-020-openai-ai-research-audio.json?v=fc568c7dd830",
+    "updated": "2026-11-19T01:41:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-020-openai-ai-research-audio.mp3?v=6ebde78496b1"
+   }
+  },
+  "a-030-anthropic-ipo": {
+   "audio": {
+    "bytes": 6980940,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-19/a-030-anthropic-ipo-audio.mp3",
+    "duration_s": 872.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-030-anthropic-ipo-audio.json?v=38a189399019",
+    "updated": "2026-11-19T01:41:29-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-030-anthropic-ipo-audio.mp3?v=c0dae8a9141e"
+   }
+  },
+  "a-040-voyager-light-day": {
+   "audio": {
+    "bytes": 6730019,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-19/a-040-voyager-light-day-audio.mp3",
+    "duration_s": 841.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-040-voyager-light-day-audio.json?v=03cf86b747fd",
+    "updated": "2026-11-19T01:41:30-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-19/a-040-voyager-light-day-audio.mp3?v=08139b4b9b13"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-19T00:32:57-07:00"
+ "updated": "2026-11-19T01:41:30-07:00"
 }
