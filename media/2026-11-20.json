@@ -22,8 +22,52 @@
     "updated": "2026-11-20T04:25:07-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-006-cyber-audio.mp3?v=bde7521f2963"
    }
+  },
+  "a-010-anthropic-ipo-day": {
+   "audio": {
+    "bytes": 6445662,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-20/a-010-anthropic-ipo-day-audio.mp3",
+    "duration_s": 805.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-010-anthropic-ipo-day-audio.json?v=4a2ac91bd251",
+    "updated": "2026-11-20T04:25:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-010-anthropic-ipo-day-audio.mp3?v=7ceb2d0c9012"
+   }
+  },
+  "a-020-starship-flight15-abort-flight17": {
+   "audio": {
+    "bytes": 6851364,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-20/a-020-starship-flight15-abort-flight17-audio.mp3",
+    "duration_s": 856.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-020-starship-flight15-abort-flight17-audio.json?v=bffc1b4fa51c",
+    "updated": "2026-11-20T04:25:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-020-starship-flight15-abort-flight17-audio.mp3?v=7121dfc96c00"
+   }
+  },
+  "a-030-blue-origin-google-suncatcher": {
+   "audio": {
+    "bytes": 6334499,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-20/a-030-blue-origin-google-suncatcher-audio.mp3",
+    "duration_s": 791.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-030-blue-origin-google-suncatcher-audio.json?v=018334f47243",
+    "updated": "2026-11-20T04:25:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-030-blue-origin-google-suncatcher-audio.mp3?v=e6fa70ebf9c2"
+   }
+  },
+  "a-040-google-quantum-contextuality": {
+   "audio": {
+    "bytes": 7334989,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-20/a-040-google-quantum-contextuality-audio.mp3",
+    "duration_s": 916.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-040-google-quantum-contextuality-audio.json?v=844fe72f47f0",
+    "updated": "2026-11-20T04:25:10-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-20/a-040-google-quantum-contextuality-audio.mp3?v=5e19ff9bacae"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-20T04:25:07-07:00"
+ "updated": "2026-11-20T04:25:10-07:00"
 }
