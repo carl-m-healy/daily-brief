@@ -11,8 +11,52 @@
     "updated": "2026-11-21T00:27:55-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-005-grokbot-audio.mp3?v=145ef427c267"
    }
+  },
+  "a-010-riemann-claude": {
+   "audio": {
+    "bytes": 6312257,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-21/a-010-riemann-claude-audio.mp3",
+    "duration_s": 789.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-010-riemann-claude-audio.json?v=6b2faf20d5a9",
+    "updated": "2026-11-21T04:19:51-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-010-riemann-claude-audio.mp3?v=333954bad2dc"
+   }
+  },
+  "a-020-openai-distillation": {
+   "audio": {
+    "bytes": 7192966,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-21/a-020-openai-distillation-audio.mp3",
+    "duration_s": 899.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-020-openai-distillation-audio.json?v=e6f009c9feee",
+    "updated": "2026-11-21T04:19:51-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-020-openai-distillation-audio.mp3?v=a5c9dcefb658"
+   }
+  },
+  "a-030-inkling-2-mini": {
+   "audio": {
+    "bytes": 6392484,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-21/a-030-inkling-2-mini-audio.mp3",
+    "duration_s": 799.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-030-inkling-2-mini-audio.json?v=1e00f5060c53",
+    "updated": "2026-11-21T04:19:51-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-030-inkling-2-mini-audio.mp3?v=a3f1cd4816ff"
+   }
+  },
+  "a-040-openai-medchem-rosalind": {
+   "audio": {
+    "bytes": 7447730,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-21/a-040-openai-medchem-rosalind-audio.mp3",
+    "duration_s": 930.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-040-openai-medchem-rosalind-audio.json?v=7406285af4c3",
+    "updated": "2026-11-21T04:19:51-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-040-openai-medchem-rosalind-audio.mp3?v=84fb0f09ab8a"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-21T00:27:55-07:00"
+ "updated": "2026-11-21T04:19:51-07:00"
 }
