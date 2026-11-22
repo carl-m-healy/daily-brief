@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-005-grokbot-audio.mp3?v=145ef427c267"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 9485617,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-21/a-006-cyber-audio.mp3",
+    "duration_s": 1185.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-006-cyber-audio.json?v=eaaf2f91bee7",
+    "updated": "2026-11-22T00:10:14-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-21/a-006-cyber-audio.mp3?v=e4254e870fc5"
+   }
+  },
   "a-010-riemann-claude": {
    "audio": {
     "bytes": 6312257,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-21T04:19:51-07:00"
+ "updated": "2026-11-22T00:10:14-07:00"
 }
