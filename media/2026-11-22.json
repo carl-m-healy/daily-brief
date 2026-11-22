@@ -11,8 +11,52 @@
     "updated": "2026-11-22T00:28:19-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-005-grokbot-audio.mp3?v=7d35e9759638"
    }
+  },
+  "a-010-riemann-lean": {
+   "audio": {
+    "bytes": 6955128,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-22/a-010-riemann-lean-audio.mp3",
+    "duration_s": 869.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-010-riemann-lean-audio.json?v=c614247e35ec",
+    "updated": "2026-11-22T01:52:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-010-riemann-lean-audio.mp3?v=f0f62b8650c9"
+   }
+  },
+  "a-020-tesla-fsd-v15": {
+   "audio": {
+    "bytes": 6709841,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-22/a-020-tesla-fsd-v15-audio.mp3",
+    "duration_s": 838.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-020-tesla-fsd-v15-audio.json?v=ca2275717414",
+    "updated": "2026-11-22T01:52:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-020-tesla-fsd-v15-audio.mp3?v=e33610c16bdf"
+   }
+  },
+  "a-030-bepicolombo-mercury": {
+   "audio": {
+    "bytes": 6191044,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-22/a-030-bepicolombo-mercury-audio.mp3",
+    "duration_s": 773.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-030-bepicolombo-mercury-audio.json?v=91908623d224",
+    "updated": "2026-11-22T01:52:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-030-bepicolombo-mercury-audio.mp3?v=5f401eddb42c"
+   }
+  },
+  "a-040-openrouter-providers": {
+   "audio": {
+    "bytes": 6443944,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-22/a-040-openrouter-providers-audio.mp3",
+    "duration_s": 805.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-040-openrouter-providers-audio.json?v=28f9a3e7f24d",
+    "updated": "2026-11-22T01:52:13-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-22/a-040-openrouter-providers-audio.mp3?v=9cf73b7ec34d"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-22T00:28:19-07:00"
+ "updated": "2026-11-22T01:52:13-07:00"
 }
