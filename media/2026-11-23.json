@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-005-grokbot-audio.mp3?v=26334bca12cc"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8454779,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-006-cyber-audio.mp3",
+    "duration_s": 1056.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-006-cyber-audio.json?v=d86ef6bd5a9f",
+    "updated": "2026-11-23T01:54:24-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-006-cyber-audio.mp3?v=17d5b31639a6"
+   }
+  },
   "a-010-openai-pretraining-transparency": {
    "audio": {
     "bytes": 7448896,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-23T01:49:58-07:00"
+ "updated": "2026-11-23T01:54:24-07:00"
 }
