@@ -1,0 +1,18 @@
+{
+ "date": "2026-11-23",
+ "items": {
+  "a-005-grokbot": {
+   "audio": {
+    "bytes": 5422126,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-005-grokbot-audio.mp3",
+    "duration_s": 677.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-005-grokbot-audio.json?v=da623253d119",
+    "updated": "2026-11-23T00:30:01-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-005-grokbot-audio.mp3?v=26334bca12cc"
+   }
+  }
+ },
+ "schema": "daily-brief-media/1",
+ "updated": "2026-11-23T00:30:01-07:00"
+}
