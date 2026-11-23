@@ -11,8 +11,52 @@
     "updated": "2026-11-23T00:30:01-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-005-grokbot-audio.mp3?v=26334bca12cc"
    }
+  },
+  "a-010-openai-pretraining-transparency": {
+   "audio": {
+    "bytes": 7448896,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-010-openai-pretraining-transparency-audio.mp3",
+    "duration_s": 931.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-010-openai-pretraining-transparency-audio.json?v=81d97a1c8ca3",
+    "updated": "2026-11-23T01:49:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-010-openai-pretraining-transparency-audio.mp3?v=e76678cfcbb6"
+   }
+  },
+  "a-020-cop31-collapse": {
+   "audio": {
+    "bytes": 7363831,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-020-cop31-collapse-audio.mp3",
+    "duration_s": 920.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-020-cop31-collapse-audio.json?v=0849638269ed",
+    "updated": "2026-11-23T01:49:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-020-cop31-collapse-audio.mp3?v=94b1ee2f930e"
+   }
+  },
+  "a-030-china-lunar-roadmap": {
+   "audio": {
+    "bytes": 6530334,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-030-china-lunar-roadmap-audio.mp3",
+    "duration_s": 816.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-030-china-lunar-roadmap-audio.json?v=01e5c3430529",
+    "updated": "2026-11-23T01:49:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-030-china-lunar-roadmap-audio.mp3?v=27a893e2c5fb"
+   }
+  },
+  "a-040-preskill-fault-tolerant": {
+   "audio": {
+    "bytes": 7177010,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-23/a-040-preskill-fault-tolerant-audio.mp3",
+    "duration_s": 897.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-040-preskill-fault-tolerant-audio.json?v=12e1385ed60e",
+    "updated": "2026-11-23T01:49:58-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-23/a-040-preskill-fault-tolerant-audio.mp3?v=767073ea2333"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-23T00:30:01-07:00"
+ "updated": "2026-11-23T01:49:58-07:00"
 }
