@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-005-grokbot-audio.mp3?v=375112476898"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8846466,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-24/a-006-cyber-audio.mp3",
+    "duration_s": 1105.8,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-006-cyber-audio.json?v=444d2c397144",
+    "updated": "2026-11-24T02:02:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-006-cyber-audio.mp3?v=3661f20d653f"
+   }
+  },
   "a-010-valiant-conjecture-claude": {
    "audio": {
     "bytes": 7842966,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-24T00:38:49-07:00"
+ "updated": "2026-11-24T02:02:03-07:00"
 }
