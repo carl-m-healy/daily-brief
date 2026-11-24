@@ -11,8 +11,52 @@
     "updated": "2026-11-24T00:35:56-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-005-grokbot-audio.mp3?v=375112476898"
    }
+  },
+  "a-010-valiant-conjecture-claude": {
+   "audio": {
+    "bytes": 7842966,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-24/a-010-valiant-conjecture-claude-audio.mp3",
+    "duration_s": 980.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-010-valiant-conjecture-claude-audio.json?v=b670c70546a6",
+    "updated": "2026-11-24T00:38:49-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-010-valiant-conjecture-claude-audio.mp3?v=df381cc31149"
+   }
+  },
+  "a-020-nvidia-reinstates-huang": {
+   "audio": {
+    "bytes": 6421654,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-24/a-020-nvidia-reinstates-huang-audio.mp3",
+    "duration_s": 802.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-020-nvidia-reinstates-huang-audio.json?v=38f8fe24611a",
+    "updated": "2026-11-24T00:38:49-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-020-nvidia-reinstates-huang-audio.mp3?v=9cfc4cf251a6"
+   }
+  },
+  "a-030-openai-gpt6-cyber-shirudo": {
+   "audio": {
+    "bytes": 7122884,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-24/a-030-openai-gpt6-cyber-shirudo-audio.mp3",
+    "duration_s": 890.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-030-openai-gpt6-cyber-shirudo-audio.json?v=2784f06ef988",
+    "updated": "2026-11-24T00:38:49-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-030-openai-gpt6-cyber-shirudo-audio.mp3?v=25ae5dd9a62a"
+   }
+  },
+  "a-040-deepmind-quantum-algorithms": {
+   "audio": {
+    "bytes": 7471385,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-24/a-040-deepmind-quantum-algorithms-audio.mp3",
+    "duration_s": 933.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-040-deepmind-quantum-algorithms-audio.json?v=5504ac15d4b4",
+    "updated": "2026-11-24T00:38:49-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-24/a-040-deepmind-quantum-algorithms-audio.mp3?v=3e7754e1e66d"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-24T00:35:56-07:00"
+ "updated": "2026-11-24T00:38:49-07:00"
 }
