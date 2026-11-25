@@ -11,8 +11,63 @@
     "updated": "2026-11-25T00:32:56-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-005-grokbot-audio.mp3?v=90d45ee52a9c"
    }
+  },
+  "a-010-openai-math-matmul-vpvnp": {
+   "audio": {
+    "bytes": 7178924,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-010-openai-math-matmul-vpvnp-audio.mp3",
+    "duration_s": 897.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-010-openai-math-matmul-vpvnp-audio.json?v=2725f5d75722",
+    "updated": "2026-11-25T00:41:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-010-openai-math-matmul-vpvnp-audio.mp3?v=d2400eed5aae"
+   }
+  },
+  "a-020-gpt6-protein-design": {
+   "audio": {
+    "bytes": 6525932,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-020-gpt6-protein-design-audio.mp3",
+    "duration_s": 815.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-020-gpt6-protein-design-audio.json?v=761fe0aa8119",
+    "updated": "2026-11-25T00:41:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-020-gpt6-protein-design-audio.mp3?v=c2a28b80fd10"
+   }
+  },
+  "a-030-nasa-sr1-freedom": {
+   "audio": {
+    "bytes": 6692802,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-030-nasa-sr1-freedom-audio.mp3",
+    "duration_s": 836.5,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-030-nasa-sr1-freedom-audio.json?v=7457df81c9d4",
+    "updated": "2026-11-25T00:41:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-030-nasa-sr1-freedom-audio.mp3?v=6fa5def3981a"
+   }
+  },
+  "a-040-anthropic-siren-sandbox": {
+   "audio": {
+    "bytes": 6795894,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-040-anthropic-siren-sandbox-audio.mp3",
+    "duration_s": 849.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-040-anthropic-siren-sandbox-audio.json?v=cee27b8c9e1c",
+    "updated": "2026-11-25T00:41:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-040-anthropic-siren-sandbox-audio.mp3?v=e40a4c8872f5"
+   }
+  },
+  "a-050-geothermal-tech-buyers": {
+   "audio": {
+    "bytes": 6467393,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-050-geothermal-tech-buyers-audio.mp3",
+    "duration_s": 808.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-050-geothermal-tech-buyers-audio.json?v=7fcee3bcc465",
+    "updated": "2026-11-25T00:41:35-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-050-geothermal-tech-buyers-audio.mp3?v=1df5dc045aee"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-25T00:32:56-07:00"
+ "updated": "2026-11-25T00:41:35-07:00"
 }
