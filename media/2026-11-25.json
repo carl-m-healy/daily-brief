@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-005-grokbot-audio.mp3?v=90d45ee52a9c"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 9295555,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-25/a-006-cyber-audio.mp3",
+    "duration_s": 1161.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-006-cyber-audio.json?v=83d931dea325",
+    "updated": "2026-11-26T00:13:48-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-25/a-006-cyber-audio.mp3?v=86966769ea2b"
+   }
+  },
   "a-010-openai-math-matmul-vpvnp": {
    "audio": {
     "bytes": 7178924,
@@ -69,5 +80,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-25T00:41:35-07:00"
+ "updated": "2026-11-26T00:13:48-07:00"
 }
