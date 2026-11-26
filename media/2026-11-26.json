@@ -11,8 +11,63 @@
     "updated": "2026-11-26T00:33:17-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-005-grokbot-audio.mp3?v=15628bccabc3"
    }
+  },
+  "a-010-riemann-hypothesis-claude": {
+   "audio": {
+    "bytes": 7198156,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-26/a-010-riemann-hypothesis-claude-audio.mp3",
+    "duration_s": 899.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-010-riemann-hypothesis-claude-audio.json?v=dff3cb6633b0",
+    "updated": "2026-11-26T01:54:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-010-riemann-hypothesis-claude-audio.mp3?v=dae1c55868b1"
+   }
+  },
+  "a-020-spacex-cochise-supercompute": {
+   "audio": {
+    "bytes": 7529728,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-26/a-020-spacex-cochise-supercompute-audio.mp3",
+    "duration_s": 941.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-020-spacex-cochise-supercompute-audio.json?v=6957181eaf26",
+    "updated": "2026-11-26T01:54:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-020-spacex-cochise-supercompute-audio.mp3?v=8d8bd8fd26fc"
+   }
+  },
+  "a-030-neuralink-link-pivotal-trial": {
+   "audio": {
+    "bytes": 6541110,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-26/a-030-neuralink-link-pivotal-trial-audio.mp3",
+    "duration_s": 817.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-030-neuralink-link-pivotal-trial-audio.json?v=1aaa5742e0fe",
+    "updated": "2026-11-26T01:54:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-030-neuralink-link-pivotal-trial-audio.mp3?v=d62e891723b0"
+   }
+  },
+  "a-040-anthropic-messages-api-rust": {
+   "audio": {
+    "bytes": 6429586,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-26/a-040-anthropic-messages-api-rust-audio.mp3",
+    "duration_s": 803.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-040-anthropic-messages-api-rust-audio.json?v=b7f1366d7839",
+    "updated": "2026-11-26T01:54:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-040-anthropic-messages-api-rust-audio.mp3?v=a02219825125"
+   }
+  },
+  "a-050-esa-hera-dimorphos": {
+   "audio": {
+    "bytes": 7031464,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-26/a-050-esa-hera-dimorphos-audio.mp3",
+    "duration_s": 878.9,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-050-esa-hera-dimorphos-audio.json?v=a66f2c53cea5",
+    "updated": "2026-11-26T01:54:54-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-26/a-050-esa-hera-dimorphos-audio.mp3?v=79e40ec9bff9"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-26T00:33:17-07:00"
+ "updated": "2026-11-26T01:54:54-07:00"
 }
