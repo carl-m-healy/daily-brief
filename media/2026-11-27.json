@@ -11,8 +11,52 @@
     "updated": "2026-11-27T00:33:44-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-005-grokbot-audio.mp3?v=3267cc865c0a"
    }
+  },
+  "a-010-spacex-fcc-million-satellites": {
+   "audio": {
+    "bytes": 7968261,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-27/a-010-spacex-fcc-million-satellites-audio.mp3",
+    "duration_s": 996.0,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-010-spacex-fcc-million-satellites-audio.json?v=0b5b85db523f",
+    "updated": "2026-11-27T00:39:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-010-spacex-fcc-million-satellites-audio.mp3?v=178edb6b1a3c"
+   }
+  },
+  "a-020-inferencex-trainium3-tpu": {
+   "audio": {
+    "bytes": 7994351,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-27/a-020-inferencex-trainium3-tpu-audio.mp3",
+    "duration_s": 999.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-020-inferencex-trainium3-tpu-audio.json?v=d5c826e0bdb9",
+    "updated": "2026-11-27T00:39:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-020-inferencex-trainium3-tpu-audio.mp3?v=0d71b1c44b2a"
+   }
+  },
+  "a-030-openrouter-jevons-paradox": {
+   "audio": {
+    "bytes": 6093568,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-27/a-030-openrouter-jevons-paradox-audio.mp3",
+    "duration_s": 761.6,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-030-openrouter-jevons-paradox-audio.json?v=0223ac2a5147",
+    "updated": "2026-11-27T00:39:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-030-openrouter-jevons-paradox-audio.mp3?v=04edb325d2b7"
+   }
+  },
+  "a-040-china-ai-nvidia-access": {
+   "audio": {
+    "bytes": 6771303,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-27/a-040-china-ai-nvidia-access-audio.mp3",
+    "duration_s": 846.4,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-040-china-ai-nvidia-access-audio.json?v=f20f03ffef65",
+    "updated": "2026-11-27T00:39:03-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-040-china-ai-nvidia-access-audio.mp3?v=571c412a4f05"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-27T00:33:44-07:00"
+ "updated": "2026-11-27T00:39:03-07:00"
 }
