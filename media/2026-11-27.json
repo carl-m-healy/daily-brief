@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-005-grokbot-audio.mp3?v=3267cc865c0a"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8681146,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-27/a-006-cyber-audio.mp3",
+    "duration_s": 1085.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-006-cyber-audio.json?v=cfb26ae94b73",
+    "updated": "2026-11-27T01:53:57-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-27/a-006-cyber-audio.mp3?v=ccbf797af2ee"
+   }
+  },
   "a-010-spacex-fcc-million-satellites": {
    "audio": {
     "bytes": 7968261,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-27T00:39:03-07:00"
+ "updated": "2026-11-27T01:53:57-07:00"
 }
