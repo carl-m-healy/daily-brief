@@ -12,6 +12,17 @@
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-005-grokbot-audio.mp3?v=26fa38dad49c"
    }
   },
+  "a-006-cyber": {
+   "audio": {
+    "bytes": 8434211,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-28/a-006-cyber-audio.mp3",
+    "duration_s": 1054.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-006-cyber-audio.json?v=6fc12ca651af",
+    "updated": "2026-11-28T04:17:11-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-006-cyber-audio.mp3?v=dbd93f6ee303"
+   }
+  },
   "a-010-ai-crypto-public-key": {
    "audio": {
     "bytes": 6829688,
@@ -58,5 +69,5 @@
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-28T00:36:07-07:00"
+ "updated": "2026-11-28T04:17:11-07:00"
 }
