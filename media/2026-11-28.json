@@ -11,8 +11,52 @@
     "updated": "2026-11-28T00:30:16-07:00",
     "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-005-grokbot-audio.mp3?v=26fa38dad49c"
    }
+  },
+  "a-010-ai-crypto-public-key": {
+   "audio": {
+    "bytes": 6829688,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-28/a-010-ai-crypto-public-key-audio.mp3",
+    "duration_s": 853.7,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-010-ai-crypto-public-key-audio.json?v=1c307860bf79",
+    "updated": "2026-11-28T00:36:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-010-ai-crypto-public-key-audio.mp3?v=1de4b863cca7"
+   }
+  },
+  "a-020-anthropic-sabotage-debate": {
+   "audio": {
+    "bytes": 5920979,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-28/a-020-anthropic-sabotage-debate-audio.mp3",
+    "duration_s": 740.1,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-020-anthropic-sabotage-debate-audio.json?v=ddc43286b8ae",
+    "updated": "2026-11-28T00:36:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-020-anthropic-sabotage-debate-audio.mp3?v=ce03823da877"
+   }
+  },
+  "a-030-tesla-emag-optimus": {
+   "audio": {
+    "bytes": 5546165,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-28/a-030-tesla-emag-optimus-audio.mp3",
+    "duration_s": 693.2,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-030-tesla-emag-optimus-audio.json?v=e467d0f3cc1e",
+    "updated": "2026-11-28T00:36:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-030-tesla-emag-optimus-audio.mp3?v=66670bed25bf"
+   }
+  },
+  "a-040-heat-freshwater-decline": {
+   "audio": {
+    "bytes": 5723198,
+    "download_url": "https://github.com/carl-m-healy/daily-brief/releases/download/media-2026-11-28/a-040-heat-freshwater-decline-audio.mp3",
+    "duration_s": 715.3,
+    "state": "ready",
+    "timing": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-040-heat-freshwater-decline-audio.json?v=8e6ef70e14a6",
+    "updated": "2026-11-28T00:36:07-07:00",
+    "url": "https://carl-m-healy.github.io/daily-brief-media/2026-11-28/a-040-heat-freshwater-decline-audio.mp3?v=13482f899c61"
+   }
   }
  },
  "schema": "daily-brief-media/1",
- "updated": "2026-11-28T00:30:16-07:00"
+ "updated": "2026-11-28T00:36:07-07:00"
 }
